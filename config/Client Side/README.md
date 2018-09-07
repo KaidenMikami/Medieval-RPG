@@ -1,0 +1,1 @@
+Aqui ficara os arquivos de configurações do client e suas funções
