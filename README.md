@@ -1,3 +1,3 @@
 # Medieval-RPG
 
-servidor minecraft
+servidor minecraft medieval
