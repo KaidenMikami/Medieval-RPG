@@ -1,1 +1,0 @@
-Aqui ficara os arquivos de configurações do servidor e suas funções
