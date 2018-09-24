@@ -6,7 +6,6 @@ Minecraft Coder Pack;9.19;http://www.modcoderpack.com/website/
 Forge Mod Loader;8.0.99.99;https://github.com/MinecraftForge/FML/wiki
 Minecraft Forge;12.18.3.2511;http://minecraftforge.net
 Aroma1997Core;${version};http://www.minecraftforum.net/topic/1679684-
-ItemBlacklist;1.2.0.11;https://github.com/DoubleDoorDevelopment/ItemBlacklist
 Additional Banners;1.3.0.22;http: //minecraft.curseforge.com/projects/additional-banners-expand-your-options
 InfinityLib;1.10.2-0.11.0;https://www.github.com/InfinityRaider
 AgriCraft;2.0.0-0.11.0-a21;http://minecraft.curseforge.com/mc-mods/225635-agricraft
@@ -30,7 +29,6 @@ Disenchanter;1.6;http://minecraft.curseforge.com/projects/the-disenchanter-mod
 ForgeAutoShutdown;1.0.1;
 Forge Essentials;10.3;
 HelpFixer;1.0;
-Infernal Mobs;1.7.1;http://www.minecraftforum.net/topic/991952-
 Inventory Tweaks;1.61-58-a1fd884;https://github.com/Kobata/inventory-tweaks
 JourneyMap;1.10.2-5.5.2;http://journeymap.info
 Just Coins;1.1.3;
