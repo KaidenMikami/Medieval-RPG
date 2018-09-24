@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 24.09 09:42 ------------ \\#
-#// ----------- Total amount: 11796 --------- \\#
+#// --------------- 24.09 16:57 ------------ \\#
+#// ----------- Total amount: 11802 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                  # (default: true) Allow breaking blocks
 fe.protection.break.agricraft.crop.*                                   # (default: true) BREAK tile.agricraft:crop.name

@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 24.09 09:42 ------------ \\#
-#// ----------- Total amount: 11796 --------- \\#
+#// --------------- 24.09 16:57 ------------ \\#
+#// ----------- Total amount: 11802 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                  # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.agricraft.agri_nugget.*                            # (default: true) CRAFT Emerald Nugget
@@ -17,149 +17,149 @@ fe.protection.craft.armorplus.ardite_boots.*                           # (defaul
 fe.protection.craft.armorplus.ardite_chestplate.*                      # (default: true) CRAFT Ardite Chestplate
 fe.protection.craft.armorplus.ardite_helmet.*                          # (default: true) CRAFT Ardite Helmet
 fe.protection.craft.armorplus.ardite_leggings.*                        # (default: true) CRAFT Ardite Leggings
-fe.protection.craft.armorplus.armorplus_book.*                         # (default: true) CRAFT §fArmorPlus Book§r
-fe.protection.craft.armorplus.armorplus_info_book.*                    # (default: true) CRAFT §fArmorPlus Info Book§r
-fe.protection.craft.armorplus.beam.*                                   # (default: true) CRAFT Beam§r
-fe.protection.craft.armorplus.chainmail.*                              # (default: true) CRAFT §fChainmail§r
+fe.protection.craft.armorplus.armorplus_book.*                         # (default: true) CRAFT Â§fArmorPlus BookÂ§r
+fe.protection.craft.armorplus.armorplus_info_book.*                    # (default: true) CRAFT Â§fArmorPlus Info BookÂ§r
+fe.protection.craft.armorplus.beam.*                                   # (default: true) CRAFT BeamÂ§r
+fe.protection.craft.armorplus.chainmail.*                              # (default: true) CRAFT Â§fChainmailÂ§r
 fe.protection.craft.armorplus.chicken_boots.*                          # (default: true) CRAFT Chicken Boots
 fe.protection.craft.armorplus.chicken_chestplate.*                     # (default: true) CRAFT Chicken Chestplate
 fe.protection.craft.armorplus.chicken_helmet.*                         # (default: true) CRAFT Chicken Helmet
 fe.protection.craft.armorplus.chicken_leggings.*                       # (default: true) CRAFT Chicken Leggings
 fe.protection.craft.armorplus.coal_arrow.*                             # (default: true) CRAFT Coal Arrow
-fe.protection.craft.armorplus.coal_battle_axe.*                        # (default: true) CRAFT §7Coal Battle Axe
+fe.protection.craft.armorplus.coal_battle_axe.*                        # (default: true) CRAFT Â§7Coal Battle Axe
 fe.protection.craft.armorplus.coal_boots.*                             # (default: true) CRAFT Coal Boots
-fe.protection.craft.armorplus.coal_bow.*                               # (default: true) CRAFT §7Coal Bow
+fe.protection.craft.armorplus.coal_bow.*                               # (default: true) CRAFT Â§7Coal Bow
 fe.protection.craft.armorplus.coal_chestplate.*                        # (default: true) CRAFT Coal Chestplate
 fe.protection.craft.armorplus.coal_helmet.*                            # (default: true) CRAFT Coal Helmet
 fe.protection.craft.armorplus.coal_leggings.*                          # (default: true) CRAFT Coal Leggings
-fe.protection.craft.armorplus.coal_sword.*                             # (default: true) CRAFT §7Coal Sword
+fe.protection.craft.armorplus.coal_sword.*                             # (default: true) CRAFT Â§7Coal Sword
 fe.protection.craft.armorplus.cobalt_boots.*                           # (default: true) CRAFT Cobalt Boots
 fe.protection.craft.armorplus.cobalt_chestplate.*                      # (default: true) CRAFT Cobalt Chestplate
 fe.protection.craft.armorplus.cobalt_helmet.*                          # (default: true) CRAFT Cobalt Helmet
 fe.protection.craft.armorplus.cobalt_leggings.*                        # (default: true) CRAFT Cobalt Leggings
-fe.protection.craft.armorplus.dev_item.*                               # (default: true) CRAFT NBT Item§r
-fe.protection.craft.armorplus.dev_tool.*                               # (default: true) CRAFT §lDev Tool
-fe.protection.craft.armorplus.electrical_boots.*                       # (default: true) CRAFT §4Electrical Boots
-fe.protection.craft.armorplus.electrical_chestplate.*                  # (default: true) CRAFT §4Electrical Chestplate
-fe.protection.craft.armorplus.electrical_helmet.*                      # (default: true) CRAFT §4Electrical Helmet
-fe.protection.craft.armorplus.electrical_ingot.*                       # (default: true) CRAFT §fElectrical Ingot§r
-fe.protection.craft.armorplus.electrical_leggings.*                    # (default: true) CRAFT §4Electrical Leggings
-fe.protection.craft.armorplus.emerald_battle_axe.*                     # (default: true) CRAFT §2Emerald Battle Axe
+fe.protection.craft.armorplus.dev_item.*                               # (default: true) CRAFT NBT ItemÂ§r
+fe.protection.craft.armorplus.dev_tool.*                               # (default: true) CRAFT Â§lDev Tool
+fe.protection.craft.armorplus.electrical_boots.*                       # (default: true) CRAFT Â§4Electrical Boots
+fe.protection.craft.armorplus.electrical_chestplate.*                  # (default: true) CRAFT Â§4Electrical Chestplate
+fe.protection.craft.armorplus.electrical_helmet.*                      # (default: true) CRAFT Â§4Electrical Helmet
+fe.protection.craft.armorplus.electrical_ingot.*                       # (default: true) CRAFT Â§fElectrical IngotÂ§r
+fe.protection.craft.armorplus.electrical_leggings.*                    # (default: true) CRAFT Â§4Electrical Leggings
+fe.protection.craft.armorplus.emerald_battle_axe.*                     # (default: true) CRAFT Â§2Emerald Battle Axe
 fe.protection.craft.armorplus.emerald_boots.*                          # (default: true) CRAFT Emerald Boots
-fe.protection.craft.armorplus.emerald_bow.*                            # (default: true) CRAFT §2Emerald Bow
+fe.protection.craft.armorplus.emerald_bow.*                            # (default: true) CRAFT Â§2Emerald Bow
 fe.protection.craft.armorplus.emerald_chestplate.*                     # (default: true) CRAFT Emerald Chestplate
 fe.protection.craft.armorplus.emerald_helmet.*                         # (default: true) CRAFT Emerald Helmet
 fe.protection.craft.armorplus.emerald_leggings.*                       # (default: true) CRAFT Emerald Leggings
-fe.protection.craft.armorplus.emerald_sword.*                          # (default: true) CRAFT §2Emerald Sword
+fe.protection.craft.armorplus.emerald_sword.*                          # (default: true) CRAFT Â§2Emerald Sword
 fe.protection.craft.armorplus.ender_dragon_arrow.*                     # (default: true) CRAFT Ender Dragon Arrow
-fe.protection.craft.armorplus.ender_dragon_battle_axe.*                # (default: true) CRAFT §5Ender Dragon Battle Axe
+fe.protection.craft.armorplus.ender_dragon_battle_axe.*                # (default: true) CRAFT Â§5Ender Dragon Battle Axe
 fe.protection.craft.armorplus.ender_dragon_boots.*                     # (default: true) CRAFT Ender Dragon Boots
-fe.protection.craft.armorplus.ender_dragon_bow.*                       # (default: true) CRAFT §5Ender Dragon Bow
+fe.protection.craft.armorplus.ender_dragon_bow.*                       # (default: true) CRAFT Â§5Ender Dragon Bow
 fe.protection.craft.armorplus.ender_dragon_chestplate.*                # (default: true) CRAFT Ender Dragon Chestplate
 fe.protection.craft.armorplus.ender_dragon_helmet.*                    # (default: true) CRAFT Ender Dragon Helmet
 fe.protection.craft.armorplus.ender_dragon_leggings.*                  # (default: true) CRAFT Ender Dragon Leggings
-fe.protection.craft.armorplus.ender_dragon_scale.*                     # (default: true) CRAFT §5Ender Dragon Scale§r
-fe.protection.craft.armorplus.ender_dragon_sword.*                     # (default: true) CRAFT §5Ender Dragon Sword
-fe.protection.craft.armorplus.energy_storage.*                         # (default: true) CRAFT §4item.armorplus.energy_storage.name
-fe.protection.craft.armorplus.guardian_battle_axe.*                    # (default: true) CRAFT §bGuardian Battle Axe
+fe.protection.craft.armorplus.ender_dragon_scale.*                     # (default: true) CRAFT Â§5Ender Dragon ScaleÂ§r
+fe.protection.craft.armorplus.ender_dragon_sword.*                     # (default: true) CRAFT Â§5Ender Dragon Sword
+fe.protection.craft.armorplus.energy_storage.*                         # (default: true) CRAFT Â§4item.armorplus.energy_storage.name
+fe.protection.craft.armorplus.guardian_battle_axe.*                    # (default: true) CRAFT Â§bGuardian Battle Axe
 fe.protection.craft.armorplus.guardian_boots.*                         # (default: true) CRAFT Guardian Boots
-fe.protection.craft.armorplus.guardian_bow.*                           # (default: true) CRAFT §bGuardian Bow
+fe.protection.craft.armorplus.guardian_bow.*                           # (default: true) CRAFT Â§bGuardian Bow
 fe.protection.craft.armorplus.guardian_chestplate.*                    # (default: true) CRAFT Guardian Chestplate
 fe.protection.craft.armorplus.guardian_helmet.*                        # (default: true) CRAFT Guardian Helmet
 fe.protection.craft.armorplus.guardian_leggings.*                      # (default: true) CRAFT Guardian Leggings
-fe.protection.craft.armorplus.guardian_scale.*                         # (default: true) CRAFT §bGuardian Scale§r
-fe.protection.craft.armorplus.guardian_sword.*                         # (default: true) CRAFT §bGuardian Sword
-fe.protection.craft.armorplus.jon_bams.*                               # (default: true) CRAFT Jon Bams§r
+fe.protection.craft.armorplus.guardian_scale.*                         # (default: true) CRAFT Â§bGuardian ScaleÂ§r
+fe.protection.craft.armorplus.guardian_sword.*                         # (default: true) CRAFT Â§bGuardian Sword
+fe.protection.craft.armorplus.jon_bams.*                               # (default: true) CRAFT Jon BamsÂ§r
 fe.protection.craft.armorplus.knight_slime_boots.*                     # (default: true) CRAFT Knight Slime Boots
 fe.protection.craft.armorplus.knight_slime_chestplate.*                # (default: true) CRAFT Knight Slime Chestplate
 fe.protection.craft.armorplus.knight_slime_helmet.*                    # (default: true) CRAFT Knight Slime Helmet
 fe.protection.craft.armorplus.knight_slime_leggings.*                  # (default: true) CRAFT Knight Slime Leggings
 fe.protection.craft.armorplus.lapis_arrow.*                            # (default: true) CRAFT Lapis Arrow
-fe.protection.craft.armorplus.lapis_battle_axe.*                       # (default: true) CRAFT §1Lapis Battle Axe
+fe.protection.craft.armorplus.lapis_battle_axe.*                       # (default: true) CRAFT Â§1Lapis Battle Axe
 fe.protection.craft.armorplus.lapis_boots.*                            # (default: true) CRAFT Lapis Boots
-fe.protection.craft.armorplus.lapis_bow.*                              # (default: true) CRAFT §1Lapis Bow
+fe.protection.craft.armorplus.lapis_bow.*                              # (default: true) CRAFT Â§1Lapis Bow
 fe.protection.craft.armorplus.lapis_chestplate.*                       # (default: true) CRAFT Lapis Chestplate
 fe.protection.craft.armorplus.lapis_helmet.*                           # (default: true) CRAFT Lapis Helmet
 fe.protection.craft.armorplus.lapis_leggings.*                         # (default: true) CRAFT Lapis Leggings
-fe.protection.craft.armorplus.lapis_sword.*                            # (default: true) CRAFT §1Lapis Sword
+fe.protection.craft.armorplus.lapis_sword.*                            # (default: true) CRAFT Â§1Lapis Sword
 fe.protection.craft.armorplus.lava_arrow.*                             # (default: true) CRAFT Lava Arrow
-fe.protection.craft.armorplus.lava_battle_axe.*                        # (default: true) CRAFT §6Lava Battle Axe
+fe.protection.craft.armorplus.lava_battle_axe.*                        # (default: true) CRAFT Â§6Lava Battle Axe
 fe.protection.craft.armorplus.lava_boots.*                             # (default: true) CRAFT Lava Boots
-fe.protection.craft.armorplus.lava_bow.*                               # (default: true) CRAFT §6Lava Bow
+fe.protection.craft.armorplus.lava_bow.*                               # (default: true) CRAFT Â§6Lava Bow
 fe.protection.craft.armorplus.lava_chestplate.*                        # (default: true) CRAFT Lava Chestplate
 fe.protection.craft.armorplus.lava_crystal.*                           # (default: true) CRAFT Lava Crystal
 fe.protection.craft.armorplus.lava_helmet.*                            # (default: true) CRAFT Lava Helmet
 fe.protection.craft.armorplus.lava_leggings.*                          # (default: true) CRAFT Lava Leggings
-fe.protection.craft.armorplus.lava_sword.*                             # (default: true) CRAFT §6Lava Sword
+fe.protection.craft.armorplus.lava_sword.*                             # (default: true) CRAFT Â§6Lava Sword
 fe.protection.craft.armorplus.manyullyn_boots.*                        # (default: true) CRAFT Manyullyn Boots
 fe.protection.craft.armorplus.manyullyn_chestplate.*                   # (default: true) CRAFT Manyullyn Chestplate
 fe.protection.craft.armorplus.manyullyn_helmet.*                       # (default: true) CRAFT Manyullyn Helmet
 fe.protection.craft.armorplus.manyullyn_leggings.*                     # (default: true) CRAFT Manyullyn Leggings
-fe.protection.craft.armorplus.modded_city.*                            # (default: true) CRAFT Modded City§r
-fe.protection.craft.armorplus.obsidian_battle_axe.*                    # (default: true) CRAFT §8Obsidian Battle Axe
+fe.protection.craft.armorplus.modded_city.*                            # (default: true) CRAFT Modded CityÂ§r
+fe.protection.craft.armorplus.obsidian_battle_axe.*                    # (default: true) CRAFT Â§8Obsidian Battle Axe
 fe.protection.craft.armorplus.obsidian_boots.*                         # (default: true) CRAFT Obsidian Boots
-fe.protection.craft.armorplus.obsidian_bow.*                           # (default: true) CRAFT §8Obsidian Bow
+fe.protection.craft.armorplus.obsidian_bow.*                           # (default: true) CRAFT Â§8Obsidian Bow
 fe.protection.craft.armorplus.obsidian_chestplate.*                    # (default: true) CRAFT Obsidian Chestplate
 fe.protection.craft.armorplus.obsidian_helmet.*                        # (default: true) CRAFT Obsidian Helmet
 fe.protection.craft.armorplus.obsidian_leggings.*                      # (default: true) CRAFT Obsidian Leggings
-fe.protection.craft.armorplus.obsidian_sword.*                         # (default: true) CRAFT §8Obsidian Sword
+fe.protection.craft.armorplus.obsidian_sword.*                         # (default: true) CRAFT Â§8Obsidian Sword
 fe.protection.craft.armorplus.pig_iron_boots.*                         # (default: true) CRAFT Pig Iron Boots
 fe.protection.craft.armorplus.pig_iron_chestplate.*                    # (default: true) CRAFT Pig Iron Chestplate
 fe.protection.craft.armorplus.pig_iron_helmet.*                        # (default: true) CRAFT Pig Iron Helmet
 fe.protection.craft.armorplus.pig_iron_leggings.*                      # (default: true) CRAFT Pig Iron Leggings
 fe.protection.craft.armorplus.redstone_apple.*                         # (default: true) CRAFT Redstone Apple
 fe.protection.craft.armorplus.redstone_arrow.*                         # (default: true) CRAFT Redstone Arrow
-fe.protection.craft.armorplus.redstone_battle_axe.*                    # (default: true) CRAFT §4Redstone Battle Axe
+fe.protection.craft.armorplus.redstone_battle_axe.*                    # (default: true) CRAFT Â§4Redstone Battle Axe
 fe.protection.craft.armorplus.redstone_boots.*                         # (default: true) CRAFT Redstone Boots
-fe.protection.craft.armorplus.redstone_bow.*                           # (default: true) CRAFT §4Redstone Bow
+fe.protection.craft.armorplus.redstone_bow.*                           # (default: true) CRAFT Â§4Redstone Bow
 fe.protection.craft.armorplus.redstone_chestplate.*                    # (default: true) CRAFT Redstone Chestplate
-fe.protection.craft.armorplus.redstone_flux_axe.*                      # (default: true) CRAFT §4Redstone Flux Axe
-fe.protection.craft.armorplus.redstone_flux_hoe.*                      # (default: true) CRAFT §4Redstone Flux Hoe
-fe.protection.craft.armorplus.redstone_flux_pickaxe.*                  # (default: true) CRAFT §4Redstone Flux Pickaxe
-fe.protection.craft.armorplus.redstone_flux_rod.*                      # (default: true) CRAFT §4Redstone Flux Rod
-fe.protection.craft.armorplus.redstone_flux_shovel.*                   # (default: true) CRAFT §4Redstone Flux Shovel
-fe.protection.craft.armorplus.redstone_flux_sword.*                    # (default: true) CRAFT §4Redstone Flux Sword
+fe.protection.craft.armorplus.redstone_flux_axe.*                      # (default: true) CRAFT Â§4Redstone Flux Axe
+fe.protection.craft.armorplus.redstone_flux_hoe.*                      # (default: true) CRAFT Â§4Redstone Flux Hoe
+fe.protection.craft.armorplus.redstone_flux_pickaxe.*                  # (default: true) CRAFT Â§4Redstone Flux Pickaxe
+fe.protection.craft.armorplus.redstone_flux_rod.*                      # (default: true) CRAFT Â§4Redstone Flux Rod
+fe.protection.craft.armorplus.redstone_flux_shovel.*                   # (default: true) CRAFT Â§4Redstone Flux Shovel
+fe.protection.craft.armorplus.redstone_flux_sword.*                    # (default: true) CRAFT Â§4Redstone Flux Sword
 fe.protection.craft.armorplus.redstone_helmet.*                        # (default: true) CRAFT Redstone Helmet
 fe.protection.craft.armorplus.redstone_leggings.*                      # (default: true) CRAFT Redstone Leggings
-fe.protection.craft.armorplus.redstone_sword.*                         # (default: true) CRAFT §4Redstone Sword
+fe.protection.craft.armorplus.redstone_sword.*                         # (default: true) CRAFT Â§4Redstone Sword
 fe.protection.craft.armorplus.slime_boots.*                            # (default: true) CRAFT Slime Boots
 fe.protection.craft.armorplus.slime_chestplate.*                       # (default: true) CRAFT Slime Chestplate
 fe.protection.craft.armorplus.slime_helmet.*                           # (default: true) CRAFT Slime Helmet
 fe.protection.craft.armorplus.slime_leggings.*                         # (default: true) CRAFT Slime Leggings
-fe.protection.craft.armorplus.steel_boots.*                            # (default: true) CRAFT §4Steel Boots
-fe.protection.craft.armorplus.steel_chestplate.*                       # (default: true) CRAFT §4Steel Chestplate
-fe.protection.craft.armorplus.steel_helmet.*                           # (default: true) CRAFT §4Steel Helmet
-fe.protection.craft.armorplus.steel_ingot.*                            # (default: true) CRAFT §fSteel Ingot§r
-fe.protection.craft.armorplus.steel_leggings.*                         # (default: true) CRAFT §4Steel Leggings
-fe.protection.craft.armorplus.super_star_battle_axe.*                  # (default: true) CRAFT §fSuper Star Battle Axe
+fe.protection.craft.armorplus.steel_boots.*                            # (default: true) CRAFT Â§4Steel Boots
+fe.protection.craft.armorplus.steel_chestplate.*                       # (default: true) CRAFT Â§4Steel Chestplate
+fe.protection.craft.armorplus.steel_helmet.*                           # (default: true) CRAFT Â§4Steel Helmet
+fe.protection.craft.armorplus.steel_ingot.*                            # (default: true) CRAFT Â§fSteel IngotÂ§r
+fe.protection.craft.armorplus.steel_leggings.*                         # (default: true) CRAFT Â§4Steel Leggings
+fe.protection.craft.armorplus.super_star_battle_axe.*                  # (default: true) CRAFT Â§fSuper Star Battle Axe
 fe.protection.craft.armorplus.super_star_boots.*                       # (default: true) CRAFT Super Star Boots
-fe.protection.craft.armorplus.super_star_bow.*                         # (default: true) CRAFT §fSuper Star Bow
+fe.protection.craft.armorplus.super_star_bow.*                         # (default: true) CRAFT Â§fSuper Star Bow
 fe.protection.craft.armorplus.super_star_chestplate.*                  # (default: true) CRAFT Super Star Chestplate
 fe.protection.craft.armorplus.super_star_helmet.*                      # (default: true) CRAFT Super Star Helmet
 fe.protection.craft.armorplus.super_star_leggings.*                    # (default: true) CRAFT Super Star Leggings
-fe.protection.craft.armorplus.super_star_sword.*                       # (default: true) CRAFT §fSuper Star Sword
-fe.protection.craft.armorplus.tesla_rod.*                              # (default: true) CRAFT §3Tesla Rod
-fe.protection.craft.armorplus.the_dragon_team.*                        # (default: true) CRAFT The Dragon Team§r
-fe.protection.craft.armorplus.the_gift_of_the_gods.*                   # (default: true) CRAFT §6The Gift Of The Gods
-fe.protection.craft.armorplus.the_ultimate_boots_full.*                # (default: true) CRAFT §aThe Ultimate Boots
-fe.protection.craft.armorplus.the_ultimate_boots_left.*                # (default: true) CRAFT §aThe Ultimate Boots Left
-fe.protection.craft.armorplus.the_ultimate_boots_middle.*              # (default: true) CRAFT §aThe Ultimate Boots Middle
-fe.protection.craft.armorplus.the_ultimate_boots_right.*               # (default: true) CRAFT §aThe Ultimate Boots Right
-fe.protection.craft.armorplus.the_ultimate_chestplate_full.*           # (default: true) CRAFT §aThe Ultimate Chestplate
-fe.protection.craft.armorplus.the_ultimate_chestplate_left.*           # (default: true) CRAFT §aThe Ultimate Chestplate Left
-fe.protection.craft.armorplus.the_ultimate_chestplate_middle.*         # (default: true) CRAFT §aThe Ultimate Chestplate Middle
-fe.protection.craft.armorplus.the_ultimate_chestplate_right.*          # (default: true) CRAFT §aThe Ultimate Chestplate Right
-fe.protection.craft.armorplus.the_ultimate_helmet_full.*               # (default: true) CRAFT §aThe Ultimate Helmet
-fe.protection.craft.armorplus.the_ultimate_helmet_left.*               # (default: true) CRAFT §aThe Ultimate Helmet Left
-fe.protection.craft.armorplus.the_ultimate_helmet_middle.*             # (default: true) CRAFT §aThe Ultimate Helmet Middle
-fe.protection.craft.armorplus.the_ultimate_helmet_right.*              # (default: true) CRAFT §aThe Ultimate Helmet Right
-fe.protection.craft.armorplus.the_ultimate_leggings_full.*             # (default: true) CRAFT §aThe Ultimate Leggings
-fe.protection.craft.armorplus.the_ultimate_leggings_left.*             # (default: true) CRAFT §aThe Ultimate Legging Left
-fe.protection.craft.armorplus.the_ultimate_leggings_middle.*           # (default: true) CRAFT §aThe Ultimate Legging Middle
-fe.protection.craft.armorplus.the_ultimate_leggings_right.*            # (default: true) CRAFT §aThe Ultimate Legging Right
-fe.protection.craft.armorplus.the_ultimate_material.*                  # (default: true) CRAFT §aThe Ultimate Material§r
-fe.protection.craft.armorplus.twitch.*                                 # (default: true) CRAFT Twitch§r
-fe.protection.craft.armorplus.wither_bone.*                            # (default: true) CRAFT §fWither Bone§r
+fe.protection.craft.armorplus.super_star_sword.*                       # (default: true) CRAFT Â§fSuper Star Sword
+fe.protection.craft.armorplus.tesla_rod.*                              # (default: true) CRAFT Â§3Tesla Rod
+fe.protection.craft.armorplus.the_dragon_team.*                        # (default: true) CRAFT The Dragon TeamÂ§r
+fe.protection.craft.armorplus.the_gift_of_the_gods.*                   # (default: true) CRAFT Â§6The Gift Of The Gods
+fe.protection.craft.armorplus.the_ultimate_boots_full.*                # (default: true) CRAFT Â§aThe Ultimate Boots
+fe.protection.craft.armorplus.the_ultimate_boots_left.*                # (default: true) CRAFT Â§aThe Ultimate Boots Left
+fe.protection.craft.armorplus.the_ultimate_boots_middle.*              # (default: true) CRAFT Â§aThe Ultimate Boots Middle
+fe.protection.craft.armorplus.the_ultimate_boots_right.*               # (default: true) CRAFT Â§aThe Ultimate Boots Right
+fe.protection.craft.armorplus.the_ultimate_chestplate_full.*           # (default: true) CRAFT Â§aThe Ultimate Chestplate
+fe.protection.craft.armorplus.the_ultimate_chestplate_left.*           # (default: true) CRAFT Â§aThe Ultimate Chestplate Left
+fe.protection.craft.armorplus.the_ultimate_chestplate_middle.*         # (default: true) CRAFT Â§aThe Ultimate Chestplate Middle
+fe.protection.craft.armorplus.the_ultimate_chestplate_right.*          # (default: true) CRAFT Â§aThe Ultimate Chestplate Right
+fe.protection.craft.armorplus.the_ultimate_helmet_full.*               # (default: true) CRAFT Â§aThe Ultimate Helmet
+fe.protection.craft.armorplus.the_ultimate_helmet_left.*               # (default: true) CRAFT Â§aThe Ultimate Helmet Left
+fe.protection.craft.armorplus.the_ultimate_helmet_middle.*             # (default: true) CRAFT Â§aThe Ultimate Helmet Middle
+fe.protection.craft.armorplus.the_ultimate_helmet_right.*              # (default: true) CRAFT Â§aThe Ultimate Helmet Right
+fe.protection.craft.armorplus.the_ultimate_leggings_full.*             # (default: true) CRAFT Â§aThe Ultimate Leggings
+fe.protection.craft.armorplus.the_ultimate_leggings_left.*             # (default: true) CRAFT Â§aThe Ultimate Legging Left
+fe.protection.craft.armorplus.the_ultimate_leggings_middle.*           # (default: true) CRAFT Â§aThe Ultimate Legging Middle
+fe.protection.craft.armorplus.the_ultimate_leggings_right.*            # (default: true) CRAFT Â§aThe Ultimate Legging Right
+fe.protection.craft.armorplus.the_ultimate_material.*                  # (default: true) CRAFT Â§aThe Ultimate MaterialÂ§r
+fe.protection.craft.armorplus.twitch.*                                 # (default: true) CRAFT TwitchÂ§r
+fe.protection.craft.armorplus.wither_bone.*                            # (default: true) CRAFT Â§fWither BoneÂ§r
 fe.protection.craft.aroma1997sdimension.dimensionChanger.*             # (default: true) CRAFT DimensionChanger
 fe.protection.craft.aroma1997sdimension.portalIgniter.*                # (default: true) CRAFT Mining Multitool
 fe.protection.craft.backpacks16840.backpack.*                          # (default: true) CRAFT Black Backpack
@@ -1004,7 +1004,7 @@ fe.protection.craft.harvestcraft.mangojellysandwichitem.*              # (defaul
 fe.protection.craft.harvestcraft.mangojuiceitem.*                      # (default: true) CRAFT Mango Juice
 fe.protection.craft.harvestcraft.mangosmoothieitem.*                   # (default: true) CRAFT Mango Smoothie
 fe.protection.craft.harvestcraft.mangoyogurtitem.*                     # (default: true) CRAFT Mango Yogurt
-fe.protection.craft.harvestcraft.manjuuitem.*                          # (default: true) CRAFT Manj?
+fe.protection.craft.harvestcraft.manjuuitem.*                          # (default: true) CRAFT ManjÅ«
 fe.protection.craft.harvestcraft.maplecandiedbaconitem.*               # (default: true) CRAFT Maple Candied Bacon
 fe.protection.craft.harvestcraft.mapleoatmealitem.*                    # (default: true) CRAFT Maple Oatmeal
 fe.protection.craft.harvestcraft.maplesausageitem.*                    # (default: true) CRAFT Maple Sausage
@@ -1379,6 +1379,7 @@ fe.protection.craft.harvestcraft.zucchinibreaditem.*                   # (defaul
 fe.protection.craft.harvestcraft.zucchinifriesitem.*                   # (default: true) CRAFT Zucchini Fries
 fe.protection.craft.harvestcraft.zucchiniitem.*                        # (default: true) CRAFT Zucchini
 fe.protection.craft.harvestcraft.zucchiniseeditem.*                    # (default: true) CRAFT Zucchini Seed
+fe.protection.craft.itemblacklist.blacklisted.*                        # (default: true) CRAFT _ERROR_.name
 fe.protection.craft.justcoins.coin_sack.*                              # (default: true) CRAFT Coin Sack
 fe.protection.craft.justcoins.copper_coin.*                            # (default: true) CRAFT Copper Coin
 fe.protection.craft.justcoins.gold_coin.*                              # (default: true) CRAFT Gold Coin
@@ -1728,149 +1729,149 @@ fe.protection.exist.armorplus.ardite_boots.*                           # (defaul
 fe.protection.exist.armorplus.ardite_chestplate.*                      # (default: true) EXIST Ardite Chestplate
 fe.protection.exist.armorplus.ardite_helmet.*                          # (default: true) EXIST Ardite Helmet
 fe.protection.exist.armorplus.ardite_leggings.*                        # (default: true) EXIST Ardite Leggings
-fe.protection.exist.armorplus.armorplus_book.*                         # (default: true) EXIST §fArmorPlus Book§r
-fe.protection.exist.armorplus.armorplus_info_book.*                    # (default: true) EXIST §fArmorPlus Info Book§r
-fe.protection.exist.armorplus.beam.*                                   # (default: true) EXIST Beam§r
-fe.protection.exist.armorplus.chainmail.*                              # (default: true) EXIST §fChainmail§r
+fe.protection.exist.armorplus.armorplus_book.*                         # (default: true) EXIST Â§fArmorPlus BookÂ§r
+fe.protection.exist.armorplus.armorplus_info_book.*                    # (default: true) EXIST Â§fArmorPlus Info BookÂ§r
+fe.protection.exist.armorplus.beam.*                                   # (default: true) EXIST BeamÂ§r
+fe.protection.exist.armorplus.chainmail.*                              # (default: true) EXIST Â§fChainmailÂ§r
 fe.protection.exist.armorplus.chicken_boots.*                          # (default: true) EXIST Chicken Boots
 fe.protection.exist.armorplus.chicken_chestplate.*                     # (default: true) EXIST Chicken Chestplate
 fe.protection.exist.armorplus.chicken_helmet.*                         # (default: true) EXIST Chicken Helmet
 fe.protection.exist.armorplus.chicken_leggings.*                       # (default: true) EXIST Chicken Leggings
 fe.protection.exist.armorplus.coal_arrow.*                             # (default: true) EXIST Coal Arrow
-fe.protection.exist.armorplus.coal_battle_axe.*                        # (default: true) EXIST §7Coal Battle Axe
+fe.protection.exist.armorplus.coal_battle_axe.*                        # (default: true) EXIST Â§7Coal Battle Axe
 fe.protection.exist.armorplus.coal_boots.*                             # (default: true) EXIST Coal Boots
-fe.protection.exist.armorplus.coal_bow.*                               # (default: true) EXIST §7Coal Bow
+fe.protection.exist.armorplus.coal_bow.*                               # (default: true) EXIST Â§7Coal Bow
 fe.protection.exist.armorplus.coal_chestplate.*                        # (default: true) EXIST Coal Chestplate
 fe.protection.exist.armorplus.coal_helmet.*                            # (default: true) EXIST Coal Helmet
 fe.protection.exist.armorplus.coal_leggings.*                          # (default: true) EXIST Coal Leggings
-fe.protection.exist.armorplus.coal_sword.*                             # (default: true) EXIST §7Coal Sword
+fe.protection.exist.armorplus.coal_sword.*                             # (default: true) EXIST Â§7Coal Sword
 fe.protection.exist.armorplus.cobalt_boots.*                           # (default: true) EXIST Cobalt Boots
 fe.protection.exist.armorplus.cobalt_chestplate.*                      # (default: true) EXIST Cobalt Chestplate
 fe.protection.exist.armorplus.cobalt_helmet.*                          # (default: true) EXIST Cobalt Helmet
 fe.protection.exist.armorplus.cobalt_leggings.*                        # (default: true) EXIST Cobalt Leggings
-fe.protection.exist.armorplus.dev_item.*                               # (default: true) EXIST NBT Item§r
-fe.protection.exist.armorplus.dev_tool.*                               # (default: true) EXIST §lDev Tool
-fe.protection.exist.armorplus.electrical_boots.*                       # (default: true) EXIST §4Electrical Boots
-fe.protection.exist.armorplus.electrical_chestplate.*                  # (default: true) EXIST §4Electrical Chestplate
-fe.protection.exist.armorplus.electrical_helmet.*                      # (default: true) EXIST §4Electrical Helmet
-fe.protection.exist.armorplus.electrical_ingot.*                       # (default: true) EXIST §fElectrical Ingot§r
-fe.protection.exist.armorplus.electrical_leggings.*                    # (default: true) EXIST §4Electrical Leggings
-fe.protection.exist.armorplus.emerald_battle_axe.*                     # (default: true) EXIST §2Emerald Battle Axe
+fe.protection.exist.armorplus.dev_item.*                               # (default: true) EXIST NBT ItemÂ§r
+fe.protection.exist.armorplus.dev_tool.*                               # (default: true) EXIST Â§lDev Tool
+fe.protection.exist.armorplus.electrical_boots.*                       # (default: true) EXIST Â§4Electrical Boots
+fe.protection.exist.armorplus.electrical_chestplate.*                  # (default: true) EXIST Â§4Electrical Chestplate
+fe.protection.exist.armorplus.electrical_helmet.*                      # (default: true) EXIST Â§4Electrical Helmet
+fe.protection.exist.armorplus.electrical_ingot.*                       # (default: true) EXIST Â§fElectrical IngotÂ§r
+fe.protection.exist.armorplus.electrical_leggings.*                    # (default: true) EXIST Â§4Electrical Leggings
+fe.protection.exist.armorplus.emerald_battle_axe.*                     # (default: true) EXIST Â§2Emerald Battle Axe
 fe.protection.exist.armorplus.emerald_boots.*                          # (default: true) EXIST Emerald Boots
-fe.protection.exist.armorplus.emerald_bow.*                            # (default: true) EXIST §2Emerald Bow
+fe.protection.exist.armorplus.emerald_bow.*                            # (default: true) EXIST Â§2Emerald Bow
 fe.protection.exist.armorplus.emerald_chestplate.*                     # (default: true) EXIST Emerald Chestplate
 fe.protection.exist.armorplus.emerald_helmet.*                         # (default: true) EXIST Emerald Helmet
 fe.protection.exist.armorplus.emerald_leggings.*                       # (default: true) EXIST Emerald Leggings
-fe.protection.exist.armorplus.emerald_sword.*                          # (default: true) EXIST §2Emerald Sword
+fe.protection.exist.armorplus.emerald_sword.*                          # (default: true) EXIST Â§2Emerald Sword
 fe.protection.exist.armorplus.ender_dragon_arrow.*                     # (default: true) EXIST Ender Dragon Arrow
-fe.protection.exist.armorplus.ender_dragon_battle_axe.*                # (default: true) EXIST §5Ender Dragon Battle Axe
+fe.protection.exist.armorplus.ender_dragon_battle_axe.*                # (default: true) EXIST Â§5Ender Dragon Battle Axe
 fe.protection.exist.armorplus.ender_dragon_boots.*                     # (default: true) EXIST Ender Dragon Boots
-fe.protection.exist.armorplus.ender_dragon_bow.*                       # (default: true) EXIST §5Ender Dragon Bow
+fe.protection.exist.armorplus.ender_dragon_bow.*                       # (default: true) EXIST Â§5Ender Dragon Bow
 fe.protection.exist.armorplus.ender_dragon_chestplate.*                # (default: true) EXIST Ender Dragon Chestplate
 fe.protection.exist.armorplus.ender_dragon_helmet.*                    # (default: true) EXIST Ender Dragon Helmet
 fe.protection.exist.armorplus.ender_dragon_leggings.*                  # (default: true) EXIST Ender Dragon Leggings
-fe.protection.exist.armorplus.ender_dragon_scale.*                     # (default: true) EXIST §5Ender Dragon Scale§r
-fe.protection.exist.armorplus.ender_dragon_sword.*                     # (default: true) EXIST §5Ender Dragon Sword
-fe.protection.exist.armorplus.energy_storage.*                         # (default: true) EXIST §4item.armorplus.energy_storage.name
-fe.protection.exist.armorplus.guardian_battle_axe.*                    # (default: true) EXIST §bGuardian Battle Axe
+fe.protection.exist.armorplus.ender_dragon_scale.*                     # (default: true) EXIST Â§5Ender Dragon ScaleÂ§r
+fe.protection.exist.armorplus.ender_dragon_sword.*                     # (default: true) EXIST Â§5Ender Dragon Sword
+fe.protection.exist.armorplus.energy_storage.*                         # (default: true) EXIST Â§4item.armorplus.energy_storage.name
+fe.protection.exist.armorplus.guardian_battle_axe.*                    # (default: true) EXIST Â§bGuardian Battle Axe
 fe.protection.exist.armorplus.guardian_boots.*                         # (default: true) EXIST Guardian Boots
-fe.protection.exist.armorplus.guardian_bow.*                           # (default: true) EXIST §bGuardian Bow
+fe.protection.exist.armorplus.guardian_bow.*                           # (default: true) EXIST Â§bGuardian Bow
 fe.protection.exist.armorplus.guardian_chestplate.*                    # (default: true) EXIST Guardian Chestplate
 fe.protection.exist.armorplus.guardian_helmet.*                        # (default: true) EXIST Guardian Helmet
 fe.protection.exist.armorplus.guardian_leggings.*                      # (default: true) EXIST Guardian Leggings
-fe.protection.exist.armorplus.guardian_scale.*                         # (default: true) EXIST §bGuardian Scale§r
-fe.protection.exist.armorplus.guardian_sword.*                         # (default: true) EXIST §bGuardian Sword
-fe.protection.exist.armorplus.jon_bams.*                               # (default: true) EXIST Jon Bams§r
+fe.protection.exist.armorplus.guardian_scale.*                         # (default: true) EXIST Â§bGuardian ScaleÂ§r
+fe.protection.exist.armorplus.guardian_sword.*                         # (default: true) EXIST Â§bGuardian Sword
+fe.protection.exist.armorplus.jon_bams.*                               # (default: true) EXIST Jon BamsÂ§r
 fe.protection.exist.armorplus.knight_slime_boots.*                     # (default: true) EXIST Knight Slime Boots
 fe.protection.exist.armorplus.knight_slime_chestplate.*                # (default: true) EXIST Knight Slime Chestplate
 fe.protection.exist.armorplus.knight_slime_helmet.*                    # (default: true) EXIST Knight Slime Helmet
 fe.protection.exist.armorplus.knight_slime_leggings.*                  # (default: true) EXIST Knight Slime Leggings
 fe.protection.exist.armorplus.lapis_arrow.*                            # (default: true) EXIST Lapis Arrow
-fe.protection.exist.armorplus.lapis_battle_axe.*                       # (default: true) EXIST §1Lapis Battle Axe
+fe.protection.exist.armorplus.lapis_battle_axe.*                       # (default: true) EXIST Â§1Lapis Battle Axe
 fe.protection.exist.armorplus.lapis_boots.*                            # (default: true) EXIST Lapis Boots
-fe.protection.exist.armorplus.lapis_bow.*                              # (default: true) EXIST §1Lapis Bow
+fe.protection.exist.armorplus.lapis_bow.*                              # (default: true) EXIST Â§1Lapis Bow
 fe.protection.exist.armorplus.lapis_chestplate.*                       # (default: true) EXIST Lapis Chestplate
 fe.protection.exist.armorplus.lapis_helmet.*                           # (default: true) EXIST Lapis Helmet
 fe.protection.exist.armorplus.lapis_leggings.*                         # (default: true) EXIST Lapis Leggings
-fe.protection.exist.armorplus.lapis_sword.*                            # (default: true) EXIST §1Lapis Sword
+fe.protection.exist.armorplus.lapis_sword.*                            # (default: true) EXIST Â§1Lapis Sword
 fe.protection.exist.armorplus.lava_arrow.*                             # (default: true) EXIST Lava Arrow
-fe.protection.exist.armorplus.lava_battle_axe.*                        # (default: true) EXIST §6Lava Battle Axe
+fe.protection.exist.armorplus.lava_battle_axe.*                        # (default: true) EXIST Â§6Lava Battle Axe
 fe.protection.exist.armorplus.lava_boots.*                             # (default: true) EXIST Lava Boots
-fe.protection.exist.armorplus.lava_bow.*                               # (default: true) EXIST §6Lava Bow
+fe.protection.exist.armorplus.lava_bow.*                               # (default: true) EXIST Â§6Lava Bow
 fe.protection.exist.armorplus.lava_chestplate.*                        # (default: true) EXIST Lava Chestplate
 fe.protection.exist.armorplus.lava_crystal.*                           # (default: true) EXIST Lava Crystal
 fe.protection.exist.armorplus.lava_helmet.*                            # (default: true) EXIST Lava Helmet
 fe.protection.exist.armorplus.lava_leggings.*                          # (default: true) EXIST Lava Leggings
-fe.protection.exist.armorplus.lava_sword.*                             # (default: true) EXIST §6Lava Sword
+fe.protection.exist.armorplus.lava_sword.*                             # (default: true) EXIST Â§6Lava Sword
 fe.protection.exist.armorplus.manyullyn_boots.*                        # (default: true) EXIST Manyullyn Boots
 fe.protection.exist.armorplus.manyullyn_chestplate.*                   # (default: true) EXIST Manyullyn Chestplate
 fe.protection.exist.armorplus.manyullyn_helmet.*                       # (default: true) EXIST Manyullyn Helmet
 fe.protection.exist.armorplus.manyullyn_leggings.*                     # (default: true) EXIST Manyullyn Leggings
-fe.protection.exist.armorplus.modded_city.*                            # (default: true) EXIST Modded City§r
-fe.protection.exist.armorplus.obsidian_battle_axe.*                    # (default: true) EXIST §8Obsidian Battle Axe
+fe.protection.exist.armorplus.modded_city.*                            # (default: true) EXIST Modded CityÂ§r
+fe.protection.exist.armorplus.obsidian_battle_axe.*                    # (default: true) EXIST Â§8Obsidian Battle Axe
 fe.protection.exist.armorplus.obsidian_boots.*                         # (default: true) EXIST Obsidian Boots
-fe.protection.exist.armorplus.obsidian_bow.*                           # (default: true) EXIST §8Obsidian Bow
+fe.protection.exist.armorplus.obsidian_bow.*                           # (default: true) EXIST Â§8Obsidian Bow
 fe.protection.exist.armorplus.obsidian_chestplate.*                    # (default: true) EXIST Obsidian Chestplate
 fe.protection.exist.armorplus.obsidian_helmet.*                        # (default: true) EXIST Obsidian Helmet
 fe.protection.exist.armorplus.obsidian_leggings.*                      # (default: true) EXIST Obsidian Leggings
-fe.protection.exist.armorplus.obsidian_sword.*                         # (default: true) EXIST §8Obsidian Sword
+fe.protection.exist.armorplus.obsidian_sword.*                         # (default: true) EXIST Â§8Obsidian Sword
 fe.protection.exist.armorplus.pig_iron_boots.*                         # (default: true) EXIST Pig Iron Boots
 fe.protection.exist.armorplus.pig_iron_chestplate.*                    # (default: true) EXIST Pig Iron Chestplate
 fe.protection.exist.armorplus.pig_iron_helmet.*                        # (default: true) EXIST Pig Iron Helmet
 fe.protection.exist.armorplus.pig_iron_leggings.*                      # (default: true) EXIST Pig Iron Leggings
 fe.protection.exist.armorplus.redstone_apple.*                         # (default: true) EXIST Redstone Apple
 fe.protection.exist.armorplus.redstone_arrow.*                         # (default: true) EXIST Redstone Arrow
-fe.protection.exist.armorplus.redstone_battle_axe.*                    # (default: true) EXIST §4Redstone Battle Axe
+fe.protection.exist.armorplus.redstone_battle_axe.*                    # (default: true) EXIST Â§4Redstone Battle Axe
 fe.protection.exist.armorplus.redstone_boots.*                         # (default: true) EXIST Redstone Boots
-fe.protection.exist.armorplus.redstone_bow.*                           # (default: true) EXIST §4Redstone Bow
+fe.protection.exist.armorplus.redstone_bow.*                           # (default: true) EXIST Â§4Redstone Bow
 fe.protection.exist.armorplus.redstone_chestplate.*                    # (default: true) EXIST Redstone Chestplate
-fe.protection.exist.armorplus.redstone_flux_axe.*                      # (default: true) EXIST §4Redstone Flux Axe
-fe.protection.exist.armorplus.redstone_flux_hoe.*                      # (default: true) EXIST §4Redstone Flux Hoe
-fe.protection.exist.armorplus.redstone_flux_pickaxe.*                  # (default: true) EXIST §4Redstone Flux Pickaxe
-fe.protection.exist.armorplus.redstone_flux_rod.*                      # (default: true) EXIST §4Redstone Flux Rod
-fe.protection.exist.armorplus.redstone_flux_shovel.*                   # (default: true) EXIST §4Redstone Flux Shovel
-fe.protection.exist.armorplus.redstone_flux_sword.*                    # (default: true) EXIST §4Redstone Flux Sword
+fe.protection.exist.armorplus.redstone_flux_axe.*                      # (default: true) EXIST Â§4Redstone Flux Axe
+fe.protection.exist.armorplus.redstone_flux_hoe.*                      # (default: true) EXIST Â§4Redstone Flux Hoe
+fe.protection.exist.armorplus.redstone_flux_pickaxe.*                  # (default: true) EXIST Â§4Redstone Flux Pickaxe
+fe.protection.exist.armorplus.redstone_flux_rod.*                      # (default: true) EXIST Â§4Redstone Flux Rod
+fe.protection.exist.armorplus.redstone_flux_shovel.*                   # (default: true) EXIST Â§4Redstone Flux Shovel
+fe.protection.exist.armorplus.redstone_flux_sword.*                    # (default: true) EXIST Â§4Redstone Flux Sword
 fe.protection.exist.armorplus.redstone_helmet.*                        # (default: true) EXIST Redstone Helmet
 fe.protection.exist.armorplus.redstone_leggings.*                      # (default: true) EXIST Redstone Leggings
-fe.protection.exist.armorplus.redstone_sword.*                         # (default: true) EXIST §4Redstone Sword
+fe.protection.exist.armorplus.redstone_sword.*                         # (default: true) EXIST Â§4Redstone Sword
 fe.protection.exist.armorplus.slime_boots.*                            # (default: true) EXIST Slime Boots
 fe.protection.exist.armorplus.slime_chestplate.*                       # (default: true) EXIST Slime Chestplate
 fe.protection.exist.armorplus.slime_helmet.*                           # (default: true) EXIST Slime Helmet
 fe.protection.exist.armorplus.slime_leggings.*                         # (default: true) EXIST Slime Leggings
-fe.protection.exist.armorplus.steel_boots.*                            # (default: true) EXIST §4Steel Boots
-fe.protection.exist.armorplus.steel_chestplate.*                       # (default: true) EXIST §4Steel Chestplate
-fe.protection.exist.armorplus.steel_helmet.*                           # (default: true) EXIST §4Steel Helmet
-fe.protection.exist.armorplus.steel_ingot.*                            # (default: true) EXIST §fSteel Ingot§r
-fe.protection.exist.armorplus.steel_leggings.*                         # (default: true) EXIST §4Steel Leggings
-fe.protection.exist.armorplus.super_star_battle_axe.*                  # (default: true) EXIST §fSuper Star Battle Axe
+fe.protection.exist.armorplus.steel_boots.*                            # (default: true) EXIST Â§4Steel Boots
+fe.protection.exist.armorplus.steel_chestplate.*                       # (default: true) EXIST Â§4Steel Chestplate
+fe.protection.exist.armorplus.steel_helmet.*                           # (default: true) EXIST Â§4Steel Helmet
+fe.protection.exist.armorplus.steel_ingot.*                            # (default: true) EXIST Â§fSteel IngotÂ§r
+fe.protection.exist.armorplus.steel_leggings.*                         # (default: true) EXIST Â§4Steel Leggings
+fe.protection.exist.armorplus.super_star_battle_axe.*                  # (default: true) EXIST Â§fSuper Star Battle Axe
 fe.protection.exist.armorplus.super_star_boots.*                       # (default: true) EXIST Super Star Boots
-fe.protection.exist.armorplus.super_star_bow.*                         # (default: true) EXIST §fSuper Star Bow
+fe.protection.exist.armorplus.super_star_bow.*                         # (default: true) EXIST Â§fSuper Star Bow
 fe.protection.exist.armorplus.super_star_chestplate.*                  # (default: true) EXIST Super Star Chestplate
 fe.protection.exist.armorplus.super_star_helmet.*                      # (default: true) EXIST Super Star Helmet
 fe.protection.exist.armorplus.super_star_leggings.*                    # (default: true) EXIST Super Star Leggings
-fe.protection.exist.armorplus.super_star_sword.*                       # (default: true) EXIST §fSuper Star Sword
-fe.protection.exist.armorplus.tesla_rod.*                              # (default: true) EXIST §3Tesla Rod
-fe.protection.exist.armorplus.the_dragon_team.*                        # (default: true) EXIST The Dragon Team§r
-fe.protection.exist.armorplus.the_gift_of_the_gods.*                   # (default: true) EXIST §6The Gift Of The Gods
-fe.protection.exist.armorplus.the_ultimate_boots_full.*                # (default: true) EXIST §aThe Ultimate Boots
-fe.protection.exist.armorplus.the_ultimate_boots_left.*                # (default: true) EXIST §aThe Ultimate Boots Left
-fe.protection.exist.armorplus.the_ultimate_boots_middle.*              # (default: true) EXIST §aThe Ultimate Boots Middle
-fe.protection.exist.armorplus.the_ultimate_boots_right.*               # (default: true) EXIST §aThe Ultimate Boots Right
-fe.protection.exist.armorplus.the_ultimate_chestplate_full.*           # (default: true) EXIST §aThe Ultimate Chestplate
-fe.protection.exist.armorplus.the_ultimate_chestplate_left.*           # (default: true) EXIST §aThe Ultimate Chestplate Left
-fe.protection.exist.armorplus.the_ultimate_chestplate_middle.*         # (default: true) EXIST §aThe Ultimate Chestplate Middle
-fe.protection.exist.armorplus.the_ultimate_chestplate_right.*          # (default: true) EXIST §aThe Ultimate Chestplate Right
-fe.protection.exist.armorplus.the_ultimate_helmet_full.*               # (default: true) EXIST §aThe Ultimate Helmet
-fe.protection.exist.armorplus.the_ultimate_helmet_left.*               # (default: true) EXIST §aThe Ultimate Helmet Left
-fe.protection.exist.armorplus.the_ultimate_helmet_middle.*             # (default: true) EXIST §aThe Ultimate Helmet Middle
-fe.protection.exist.armorplus.the_ultimate_helmet_right.*              # (default: true) EXIST §aThe Ultimate Helmet Right
-fe.protection.exist.armorplus.the_ultimate_leggings_full.*             # (default: true) EXIST §aThe Ultimate Leggings
-fe.protection.exist.armorplus.the_ultimate_leggings_left.*             # (default: true) EXIST §aThe Ultimate Legging Left
-fe.protection.exist.armorplus.the_ultimate_leggings_middle.*           # (default: true) EXIST §aThe Ultimate Legging Middle
-fe.protection.exist.armorplus.the_ultimate_leggings_right.*            # (default: true) EXIST §aThe Ultimate Legging Right
-fe.protection.exist.armorplus.the_ultimate_material.*                  # (default: true) EXIST §aThe Ultimate Material§r
-fe.protection.exist.armorplus.twitch.*                                 # (default: true) EXIST Twitch§r
-fe.protection.exist.armorplus.wither_bone.*                            # (default: true) EXIST §fWither Bone§r
+fe.protection.exist.armorplus.super_star_sword.*                       # (default: true) EXIST Â§fSuper Star Sword
+fe.protection.exist.armorplus.tesla_rod.*                              # (default: true) EXIST Â§3Tesla Rod
+fe.protection.exist.armorplus.the_dragon_team.*                        # (default: true) EXIST The Dragon TeamÂ§r
+fe.protection.exist.armorplus.the_gift_of_the_gods.*                   # (default: true) EXIST Â§6The Gift Of The Gods
+fe.protection.exist.armorplus.the_ultimate_boots_full.*                # (default: true) EXIST Â§aThe Ultimate Boots
+fe.protection.exist.armorplus.the_ultimate_boots_left.*                # (default: true) EXIST Â§aThe Ultimate Boots Left
+fe.protection.exist.armorplus.the_ultimate_boots_middle.*              # (default: true) EXIST Â§aThe Ultimate Boots Middle
+fe.protection.exist.armorplus.the_ultimate_boots_right.*               # (default: true) EXIST Â§aThe Ultimate Boots Right
+fe.protection.exist.armorplus.the_ultimate_chestplate_full.*           # (default: true) EXIST Â§aThe Ultimate Chestplate
+fe.protection.exist.armorplus.the_ultimate_chestplate_left.*           # (default: true) EXIST Â§aThe Ultimate Chestplate Left
+fe.protection.exist.armorplus.the_ultimate_chestplate_middle.*         # (default: true) EXIST Â§aThe Ultimate Chestplate Middle
+fe.protection.exist.armorplus.the_ultimate_chestplate_right.*          # (default: true) EXIST Â§aThe Ultimate Chestplate Right
+fe.protection.exist.armorplus.the_ultimate_helmet_full.*               # (default: true) EXIST Â§aThe Ultimate Helmet
+fe.protection.exist.armorplus.the_ultimate_helmet_left.*               # (default: true) EXIST Â§aThe Ultimate Helmet Left
+fe.protection.exist.armorplus.the_ultimate_helmet_middle.*             # (default: true) EXIST Â§aThe Ultimate Helmet Middle
+fe.protection.exist.armorplus.the_ultimate_helmet_right.*              # (default: true) EXIST Â§aThe Ultimate Helmet Right
+fe.protection.exist.armorplus.the_ultimate_leggings_full.*             # (default: true) EXIST Â§aThe Ultimate Leggings
+fe.protection.exist.armorplus.the_ultimate_leggings_left.*             # (default: true) EXIST Â§aThe Ultimate Legging Left
+fe.protection.exist.armorplus.the_ultimate_leggings_middle.*           # (default: true) EXIST Â§aThe Ultimate Legging Middle
+fe.protection.exist.armorplus.the_ultimate_leggings_right.*            # (default: true) EXIST Â§aThe Ultimate Legging Right
+fe.protection.exist.armorplus.the_ultimate_material.*                  # (default: true) EXIST Â§aThe Ultimate MaterialÂ§r
+fe.protection.exist.armorplus.twitch.*                                 # (default: true) EXIST TwitchÂ§r
+fe.protection.exist.armorplus.wither_bone.*                            # (default: true) EXIST Â§fWither BoneÂ§r
 fe.protection.exist.aroma1997sdimension.dimensionChanger.*             # (default: true) EXIST DimensionChanger
 fe.protection.exist.aroma1997sdimension.portalIgniter.*                # (default: true) EXIST Mining Multitool
 fe.protection.exist.backpacks16840.backpack.*                          # (default: true) EXIST Black Backpack
@@ -2715,7 +2716,7 @@ fe.protection.exist.harvestcraft.mangojellysandwichitem.*              # (defaul
 fe.protection.exist.harvestcraft.mangojuiceitem.*                      # (default: true) EXIST Mango Juice
 fe.protection.exist.harvestcraft.mangosmoothieitem.*                   # (default: true) EXIST Mango Smoothie
 fe.protection.exist.harvestcraft.mangoyogurtitem.*                     # (default: true) EXIST Mango Yogurt
-fe.protection.exist.harvestcraft.manjuuitem.*                          # (default: true) EXIST Manj?
+fe.protection.exist.harvestcraft.manjuuitem.*                          # (default: true) EXIST ManjÅ«
 fe.protection.exist.harvestcraft.maplecandiedbaconitem.*               # (default: true) EXIST Maple Candied Bacon
 fe.protection.exist.harvestcraft.mapleoatmealitem.*                    # (default: true) EXIST Maple Oatmeal
 fe.protection.exist.harvestcraft.maplesausageitem.*                    # (default: true) EXIST Maple Sausage
@@ -3090,6 +3091,7 @@ fe.protection.exist.harvestcraft.zucchinibreaditem.*                   # (defaul
 fe.protection.exist.harvestcraft.zucchinifriesitem.*                   # (default: true) EXIST Zucchini Fries
 fe.protection.exist.harvestcraft.zucchiniitem.*                        # (default: true) EXIST Zucchini
 fe.protection.exist.harvestcraft.zucchiniseeditem.*                    # (default: true) EXIST Zucchini Seed
+fe.protection.exist.itemblacklist.blacklisted.*                        # (default: true) EXIST _ERROR_.name
 fe.protection.exist.justcoins.coin_sack.*                              # (default: true) EXIST Coin Sack
 fe.protection.exist.justcoins.copper_coin.*                            # (default: true) EXIST Copper Coin
 fe.protection.exist.justcoins.gold_coin.*                              # (default: true) EXIST Gold Coin
@@ -3439,149 +3441,149 @@ fe.protection.inventory.armorplus.ardite_boots.*                       # (defaul
 fe.protection.inventory.armorplus.ardite_chestplate.*                  # (default: true) INVENTORY Ardite Chestplate
 fe.protection.inventory.armorplus.ardite_helmet.*                      # (default: true) INVENTORY Ardite Helmet
 fe.protection.inventory.armorplus.ardite_leggings.*                    # (default: true) INVENTORY Ardite Leggings
-fe.protection.inventory.armorplus.armorplus_book.*                     # (default: true) INVENTORY §fArmorPlus Book§r
-fe.protection.inventory.armorplus.armorplus_info_book.*                # (default: true) INVENTORY §fArmorPlus Info Book§r
-fe.protection.inventory.armorplus.beam.*                               # (default: true) INVENTORY Beam§r
-fe.protection.inventory.armorplus.chainmail.*                          # (default: true) INVENTORY §fChainmail§r
+fe.protection.inventory.armorplus.armorplus_book.*                     # (default: true) INVENTORY Â§fArmorPlus BookÂ§r
+fe.protection.inventory.armorplus.armorplus_info_book.*                # (default: true) INVENTORY Â§fArmorPlus Info BookÂ§r
+fe.protection.inventory.armorplus.beam.*                               # (default: true) INVENTORY BeamÂ§r
+fe.protection.inventory.armorplus.chainmail.*                          # (default: true) INVENTORY Â§fChainmailÂ§r
 fe.protection.inventory.armorplus.chicken_boots.*                      # (default: true) INVENTORY Chicken Boots
 fe.protection.inventory.armorplus.chicken_chestplate.*                 # (default: true) INVENTORY Chicken Chestplate
 fe.protection.inventory.armorplus.chicken_helmet.*                     # (default: true) INVENTORY Chicken Helmet
 fe.protection.inventory.armorplus.chicken_leggings.*                   # (default: true) INVENTORY Chicken Leggings
 fe.protection.inventory.armorplus.coal_arrow.*                         # (default: true) INVENTORY Coal Arrow
-fe.protection.inventory.armorplus.coal_battle_axe.*                    # (default: true) INVENTORY §7Coal Battle Axe
+fe.protection.inventory.armorplus.coal_battle_axe.*                    # (default: true) INVENTORY Â§7Coal Battle Axe
 fe.protection.inventory.armorplus.coal_boots.*                         # (default: true) INVENTORY Coal Boots
-fe.protection.inventory.armorplus.coal_bow.*                           # (default: true) INVENTORY §7Coal Bow
+fe.protection.inventory.armorplus.coal_bow.*                           # (default: true) INVENTORY Â§7Coal Bow
 fe.protection.inventory.armorplus.coal_chestplate.*                    # (default: true) INVENTORY Coal Chestplate
 fe.protection.inventory.armorplus.coal_helmet.*                        # (default: true) INVENTORY Coal Helmet
 fe.protection.inventory.armorplus.coal_leggings.*                      # (default: true) INVENTORY Coal Leggings
-fe.protection.inventory.armorplus.coal_sword.*                         # (default: true) INVENTORY §7Coal Sword
+fe.protection.inventory.armorplus.coal_sword.*                         # (default: true) INVENTORY Â§7Coal Sword
 fe.protection.inventory.armorplus.cobalt_boots.*                       # (default: true) INVENTORY Cobalt Boots
 fe.protection.inventory.armorplus.cobalt_chestplate.*                  # (default: true) INVENTORY Cobalt Chestplate
 fe.protection.inventory.armorplus.cobalt_helmet.*                      # (default: true) INVENTORY Cobalt Helmet
 fe.protection.inventory.armorplus.cobalt_leggings.*                    # (default: true) INVENTORY Cobalt Leggings
-fe.protection.inventory.armorplus.dev_item.*                           # (default: true) INVENTORY NBT Item§r
-fe.protection.inventory.armorplus.dev_tool.*                           # (default: true) INVENTORY §lDev Tool
-fe.protection.inventory.armorplus.electrical_boots.*                   # (default: true) INVENTORY §4Electrical Boots
-fe.protection.inventory.armorplus.electrical_chestplate.*              # (default: true) INVENTORY §4Electrical Chestplate
-fe.protection.inventory.armorplus.electrical_helmet.*                  # (default: true) INVENTORY §4Electrical Helmet
-fe.protection.inventory.armorplus.electrical_ingot.*                   # (default: true) INVENTORY §fElectrical Ingot§r
-fe.protection.inventory.armorplus.electrical_leggings.*                # (default: true) INVENTORY §4Electrical Leggings
-fe.protection.inventory.armorplus.emerald_battle_axe.*                 # (default: true) INVENTORY §2Emerald Battle Axe
+fe.protection.inventory.armorplus.dev_item.*                           # (default: true) INVENTORY NBT ItemÂ§r
+fe.protection.inventory.armorplus.dev_tool.*                           # (default: true) INVENTORY Â§lDev Tool
+fe.protection.inventory.armorplus.electrical_boots.*                   # (default: true) INVENTORY Â§4Electrical Boots
+fe.protection.inventory.armorplus.electrical_chestplate.*              # (default: true) INVENTORY Â§4Electrical Chestplate
+fe.protection.inventory.armorplus.electrical_helmet.*                  # (default: true) INVENTORY Â§4Electrical Helmet
+fe.protection.inventory.armorplus.electrical_ingot.*                   # (default: true) INVENTORY Â§fElectrical IngotÂ§r
+fe.protection.inventory.armorplus.electrical_leggings.*                # (default: true) INVENTORY Â§4Electrical Leggings
+fe.protection.inventory.armorplus.emerald_battle_axe.*                 # (default: true) INVENTORY Â§2Emerald Battle Axe
 fe.protection.inventory.armorplus.emerald_boots.*                      # (default: true) INVENTORY Emerald Boots
-fe.protection.inventory.armorplus.emerald_bow.*                        # (default: true) INVENTORY §2Emerald Bow
+fe.protection.inventory.armorplus.emerald_bow.*                        # (default: true) INVENTORY Â§2Emerald Bow
 fe.protection.inventory.armorplus.emerald_chestplate.*                 # (default: true) INVENTORY Emerald Chestplate
 fe.protection.inventory.armorplus.emerald_helmet.*                     # (default: true) INVENTORY Emerald Helmet
 fe.protection.inventory.armorplus.emerald_leggings.*                   # (default: true) INVENTORY Emerald Leggings
-fe.protection.inventory.armorplus.emerald_sword.*                      # (default: true) INVENTORY §2Emerald Sword
+fe.protection.inventory.armorplus.emerald_sword.*                      # (default: true) INVENTORY Â§2Emerald Sword
 fe.protection.inventory.armorplus.ender_dragon_arrow.*                 # (default: true) INVENTORY Ender Dragon Arrow
-fe.protection.inventory.armorplus.ender_dragon_battle_axe.*            # (default: true) INVENTORY §5Ender Dragon Battle Axe
+fe.protection.inventory.armorplus.ender_dragon_battle_axe.*            # (default: true) INVENTORY Â§5Ender Dragon Battle Axe
 fe.protection.inventory.armorplus.ender_dragon_boots.*                 # (default: true) INVENTORY Ender Dragon Boots
-fe.protection.inventory.armorplus.ender_dragon_bow.*                   # (default: true) INVENTORY §5Ender Dragon Bow
+fe.protection.inventory.armorplus.ender_dragon_bow.*                   # (default: true) INVENTORY Â§5Ender Dragon Bow
 fe.protection.inventory.armorplus.ender_dragon_chestplate.*            # (default: true) INVENTORY Ender Dragon Chestplate
 fe.protection.inventory.armorplus.ender_dragon_helmet.*                # (default: true) INVENTORY Ender Dragon Helmet
 fe.protection.inventory.armorplus.ender_dragon_leggings.*              # (default: true) INVENTORY Ender Dragon Leggings
-fe.protection.inventory.armorplus.ender_dragon_scale.*                 # (default: true) INVENTORY §5Ender Dragon Scale§r
-fe.protection.inventory.armorplus.ender_dragon_sword.*                 # (default: true) INVENTORY §5Ender Dragon Sword
-fe.protection.inventory.armorplus.energy_storage.*                     # (default: true) INVENTORY §4item.armorplus.energy_storage.name
-fe.protection.inventory.armorplus.guardian_battle_axe.*                # (default: true) INVENTORY §bGuardian Battle Axe
+fe.protection.inventory.armorplus.ender_dragon_scale.*                 # (default: true) INVENTORY Â§5Ender Dragon ScaleÂ§r
+fe.protection.inventory.armorplus.ender_dragon_sword.*                 # (default: true) INVENTORY Â§5Ender Dragon Sword
+fe.protection.inventory.armorplus.energy_storage.*                     # (default: true) INVENTORY Â§4item.armorplus.energy_storage.name
+fe.protection.inventory.armorplus.guardian_battle_axe.*                # (default: true) INVENTORY Â§bGuardian Battle Axe
 fe.protection.inventory.armorplus.guardian_boots.*                     # (default: true) INVENTORY Guardian Boots
-fe.protection.inventory.armorplus.guardian_bow.*                       # (default: true) INVENTORY §bGuardian Bow
+fe.protection.inventory.armorplus.guardian_bow.*                       # (default: true) INVENTORY Â§bGuardian Bow
 fe.protection.inventory.armorplus.guardian_chestplate.*                # (default: true) INVENTORY Guardian Chestplate
 fe.protection.inventory.armorplus.guardian_helmet.*                    # (default: true) INVENTORY Guardian Helmet
 fe.protection.inventory.armorplus.guardian_leggings.*                  # (default: true) INVENTORY Guardian Leggings
-fe.protection.inventory.armorplus.guardian_scale.*                     # (default: true) INVENTORY §bGuardian Scale§r
-fe.protection.inventory.armorplus.guardian_sword.*                     # (default: true) INVENTORY §bGuardian Sword
-fe.protection.inventory.armorplus.jon_bams.*                           # (default: true) INVENTORY Jon Bams§r
+fe.protection.inventory.armorplus.guardian_scale.*                     # (default: true) INVENTORY Â§bGuardian ScaleÂ§r
+fe.protection.inventory.armorplus.guardian_sword.*                     # (default: true) INVENTORY Â§bGuardian Sword
+fe.protection.inventory.armorplus.jon_bams.*                           # (default: true) INVENTORY Jon BamsÂ§r
 fe.protection.inventory.armorplus.knight_slime_boots.*                 # (default: true) INVENTORY Knight Slime Boots
 fe.protection.inventory.armorplus.knight_slime_chestplate.*            # (default: true) INVENTORY Knight Slime Chestplate
 fe.protection.inventory.armorplus.knight_slime_helmet.*                # (default: true) INVENTORY Knight Slime Helmet
 fe.protection.inventory.armorplus.knight_slime_leggings.*              # (default: true) INVENTORY Knight Slime Leggings
 fe.protection.inventory.armorplus.lapis_arrow.*                        # (default: true) INVENTORY Lapis Arrow
-fe.protection.inventory.armorplus.lapis_battle_axe.*                   # (default: true) INVENTORY §1Lapis Battle Axe
+fe.protection.inventory.armorplus.lapis_battle_axe.*                   # (default: true) INVENTORY Â§1Lapis Battle Axe
 fe.protection.inventory.armorplus.lapis_boots.*                        # (default: true) INVENTORY Lapis Boots
-fe.protection.inventory.armorplus.lapis_bow.*                          # (default: true) INVENTORY §1Lapis Bow
+fe.protection.inventory.armorplus.lapis_bow.*                          # (default: true) INVENTORY Â§1Lapis Bow
 fe.protection.inventory.armorplus.lapis_chestplate.*                   # (default: true) INVENTORY Lapis Chestplate
 fe.protection.inventory.armorplus.lapis_helmet.*                       # (default: true) INVENTORY Lapis Helmet
 fe.protection.inventory.armorplus.lapis_leggings.*                     # (default: true) INVENTORY Lapis Leggings
-fe.protection.inventory.armorplus.lapis_sword.*                        # (default: true) INVENTORY §1Lapis Sword
+fe.protection.inventory.armorplus.lapis_sword.*                        # (default: true) INVENTORY Â§1Lapis Sword
 fe.protection.inventory.armorplus.lava_arrow.*                         # (default: true) INVENTORY Lava Arrow
-fe.protection.inventory.armorplus.lava_battle_axe.*                    # (default: true) INVENTORY §6Lava Battle Axe
+fe.protection.inventory.armorplus.lava_battle_axe.*                    # (default: true) INVENTORY Â§6Lava Battle Axe
 fe.protection.inventory.armorplus.lava_boots.*                         # (default: true) INVENTORY Lava Boots
-fe.protection.inventory.armorplus.lava_bow.*                           # (default: true) INVENTORY §6Lava Bow
+fe.protection.inventory.armorplus.lava_bow.*                           # (default: true) INVENTORY Â§6Lava Bow
 fe.protection.inventory.armorplus.lava_chestplate.*                    # (default: true) INVENTORY Lava Chestplate
 fe.protection.inventory.armorplus.lava_crystal.*                       # (default: true) INVENTORY Lava Crystal
 fe.protection.inventory.armorplus.lava_helmet.*                        # (default: true) INVENTORY Lava Helmet
 fe.protection.inventory.armorplus.lava_leggings.*                      # (default: true) INVENTORY Lava Leggings
-fe.protection.inventory.armorplus.lava_sword.*                         # (default: true) INVENTORY §6Lava Sword
+fe.protection.inventory.armorplus.lava_sword.*                         # (default: true) INVENTORY Â§6Lava Sword
 fe.protection.inventory.armorplus.manyullyn_boots.*                    # (default: true) INVENTORY Manyullyn Boots
 fe.protection.inventory.armorplus.manyullyn_chestplate.*               # (default: true) INVENTORY Manyullyn Chestplate
 fe.protection.inventory.armorplus.manyullyn_helmet.*                   # (default: true) INVENTORY Manyullyn Helmet
 fe.protection.inventory.armorplus.manyullyn_leggings.*                 # (default: true) INVENTORY Manyullyn Leggings
-fe.protection.inventory.armorplus.modded_city.*                        # (default: true) INVENTORY Modded City§r
-fe.protection.inventory.armorplus.obsidian_battle_axe.*                # (default: true) INVENTORY §8Obsidian Battle Axe
+fe.protection.inventory.armorplus.modded_city.*                        # (default: true) INVENTORY Modded CityÂ§r
+fe.protection.inventory.armorplus.obsidian_battle_axe.*                # (default: true) INVENTORY Â§8Obsidian Battle Axe
 fe.protection.inventory.armorplus.obsidian_boots.*                     # (default: true) INVENTORY Obsidian Boots
-fe.protection.inventory.armorplus.obsidian_bow.*                       # (default: true) INVENTORY §8Obsidian Bow
+fe.protection.inventory.armorplus.obsidian_bow.*                       # (default: true) INVENTORY Â§8Obsidian Bow
 fe.protection.inventory.armorplus.obsidian_chestplate.*                # (default: true) INVENTORY Obsidian Chestplate
 fe.protection.inventory.armorplus.obsidian_helmet.*                    # (default: true) INVENTORY Obsidian Helmet
 fe.protection.inventory.armorplus.obsidian_leggings.*                  # (default: true) INVENTORY Obsidian Leggings
-fe.protection.inventory.armorplus.obsidian_sword.*                     # (default: true) INVENTORY §8Obsidian Sword
+fe.protection.inventory.armorplus.obsidian_sword.*                     # (default: true) INVENTORY Â§8Obsidian Sword
 fe.protection.inventory.armorplus.pig_iron_boots.*                     # (default: true) INVENTORY Pig Iron Boots
 fe.protection.inventory.armorplus.pig_iron_chestplate.*                # (default: true) INVENTORY Pig Iron Chestplate
 fe.protection.inventory.armorplus.pig_iron_helmet.*                    # (default: true) INVENTORY Pig Iron Helmet
 fe.protection.inventory.armorplus.pig_iron_leggings.*                  # (default: true) INVENTORY Pig Iron Leggings
 fe.protection.inventory.armorplus.redstone_apple.*                     # (default: true) INVENTORY Redstone Apple
 fe.protection.inventory.armorplus.redstone_arrow.*                     # (default: true) INVENTORY Redstone Arrow
-fe.protection.inventory.armorplus.redstone_battle_axe.*                # (default: true) INVENTORY §4Redstone Battle Axe
+fe.protection.inventory.armorplus.redstone_battle_axe.*                # (default: true) INVENTORY Â§4Redstone Battle Axe
 fe.protection.inventory.armorplus.redstone_boots.*                     # (default: true) INVENTORY Redstone Boots
-fe.protection.inventory.armorplus.redstone_bow.*                       # (default: true) INVENTORY §4Redstone Bow
+fe.protection.inventory.armorplus.redstone_bow.*                       # (default: true) INVENTORY Â§4Redstone Bow
 fe.protection.inventory.armorplus.redstone_chestplate.*                # (default: true) INVENTORY Redstone Chestplate
-fe.protection.inventory.armorplus.redstone_flux_axe.*                  # (default: true) INVENTORY §4Redstone Flux Axe
-fe.protection.inventory.armorplus.redstone_flux_hoe.*                  # (default: true) INVENTORY §4Redstone Flux Hoe
-fe.protection.inventory.armorplus.redstone_flux_pickaxe.*              # (default: true) INVENTORY §4Redstone Flux Pickaxe
-fe.protection.inventory.armorplus.redstone_flux_rod.*                  # (default: true) INVENTORY §4Redstone Flux Rod
-fe.protection.inventory.armorplus.redstone_flux_shovel.*               # (default: true) INVENTORY §4Redstone Flux Shovel
-fe.protection.inventory.armorplus.redstone_flux_sword.*                # (default: true) INVENTORY §4Redstone Flux Sword
+fe.protection.inventory.armorplus.redstone_flux_axe.*                  # (default: true) INVENTORY Â§4Redstone Flux Axe
+fe.protection.inventory.armorplus.redstone_flux_hoe.*                  # (default: true) INVENTORY Â§4Redstone Flux Hoe
+fe.protection.inventory.armorplus.redstone_flux_pickaxe.*              # (default: true) INVENTORY Â§4Redstone Flux Pickaxe
+fe.protection.inventory.armorplus.redstone_flux_rod.*                  # (default: true) INVENTORY Â§4Redstone Flux Rod
+fe.protection.inventory.armorplus.redstone_flux_shovel.*               # (default: true) INVENTORY Â§4Redstone Flux Shovel
+fe.protection.inventory.armorplus.redstone_flux_sword.*                # (default: true) INVENTORY Â§4Redstone Flux Sword
 fe.protection.inventory.armorplus.redstone_helmet.*                    # (default: true) INVENTORY Redstone Helmet
 fe.protection.inventory.armorplus.redstone_leggings.*                  # (default: true) INVENTORY Redstone Leggings
-fe.protection.inventory.armorplus.redstone_sword.*                     # (default: true) INVENTORY §4Redstone Sword
+fe.protection.inventory.armorplus.redstone_sword.*                     # (default: true) INVENTORY Â§4Redstone Sword
 fe.protection.inventory.armorplus.slime_boots.*                        # (default: true) INVENTORY Slime Boots
 fe.protection.inventory.armorplus.slime_chestplate.*                   # (default: true) INVENTORY Slime Chestplate
 fe.protection.inventory.armorplus.slime_helmet.*                       # (default: true) INVENTORY Slime Helmet
 fe.protection.inventory.armorplus.slime_leggings.*                     # (default: true) INVENTORY Slime Leggings
-fe.protection.inventory.armorplus.steel_boots.*                        # (default: true) INVENTORY §4Steel Boots
-fe.protection.inventory.armorplus.steel_chestplate.*                   # (default: true) INVENTORY §4Steel Chestplate
-fe.protection.inventory.armorplus.steel_helmet.*                       # (default: true) INVENTORY §4Steel Helmet
-fe.protection.inventory.armorplus.steel_ingot.*                        # (default: true) INVENTORY §fSteel Ingot§r
-fe.protection.inventory.armorplus.steel_leggings.*                     # (default: true) INVENTORY §4Steel Leggings
-fe.protection.inventory.armorplus.super_star_battle_axe.*              # (default: true) INVENTORY §fSuper Star Battle Axe
+fe.protection.inventory.armorplus.steel_boots.*                        # (default: true) INVENTORY Â§4Steel Boots
+fe.protection.inventory.armorplus.steel_chestplate.*                   # (default: true) INVENTORY Â§4Steel Chestplate
+fe.protection.inventory.armorplus.steel_helmet.*                       # (default: true) INVENTORY Â§4Steel Helmet
+fe.protection.inventory.armorplus.steel_ingot.*                        # (default: true) INVENTORY Â§fSteel IngotÂ§r
+fe.protection.inventory.armorplus.steel_leggings.*                     # (default: true) INVENTORY Â§4Steel Leggings
+fe.protection.inventory.armorplus.super_star_battle_axe.*              # (default: true) INVENTORY Â§fSuper Star Battle Axe
 fe.protection.inventory.armorplus.super_star_boots.*                   # (default: true) INVENTORY Super Star Boots
-fe.protection.inventory.armorplus.super_star_bow.*                     # (default: true) INVENTORY §fSuper Star Bow
+fe.protection.inventory.armorplus.super_star_bow.*                     # (default: true) INVENTORY Â§fSuper Star Bow
 fe.protection.inventory.armorplus.super_star_chestplate.*              # (default: true) INVENTORY Super Star Chestplate
 fe.protection.inventory.armorplus.super_star_helmet.*                  # (default: true) INVENTORY Super Star Helmet
 fe.protection.inventory.armorplus.super_star_leggings.*                # (default: true) INVENTORY Super Star Leggings
-fe.protection.inventory.armorplus.super_star_sword.*                   # (default: true) INVENTORY §fSuper Star Sword
-fe.protection.inventory.armorplus.tesla_rod.*                          # (default: true) INVENTORY §3Tesla Rod
-fe.protection.inventory.armorplus.the_dragon_team.*                    # (default: true) INVENTORY The Dragon Team§r
-fe.protection.inventory.armorplus.the_gift_of_the_gods.*               # (default: true) INVENTORY §6The Gift Of The Gods
-fe.protection.inventory.armorplus.the_ultimate_boots_full.*            # (default: true) INVENTORY §aThe Ultimate Boots
-fe.protection.inventory.armorplus.the_ultimate_boots_left.*            # (default: true) INVENTORY §aThe Ultimate Boots Left
-fe.protection.inventory.armorplus.the_ultimate_boots_middle.*          # (default: true) INVENTORY §aThe Ultimate Boots Middle
-fe.protection.inventory.armorplus.the_ultimate_boots_right.*           # (default: true) INVENTORY §aThe Ultimate Boots Right
-fe.protection.inventory.armorplus.the_ultimate_chestplate_full.*       # (default: true) INVENTORY §aThe Ultimate Chestplate
-fe.protection.inventory.armorplus.the_ultimate_chestplate_left.*       # (default: true) INVENTORY §aThe Ultimate Chestplate Left
-fe.protection.inventory.armorplus.the_ultimate_chestplate_middle.*     # (default: true) INVENTORY §aThe Ultimate Chestplate Middle
-fe.protection.inventory.armorplus.the_ultimate_chestplate_right.*      # (default: true) INVENTORY §aThe Ultimate Chestplate Right
-fe.protection.inventory.armorplus.the_ultimate_helmet_full.*           # (default: true) INVENTORY §aThe Ultimate Helmet
-fe.protection.inventory.armorplus.the_ultimate_helmet_left.*           # (default: true) INVENTORY §aThe Ultimate Helmet Left
-fe.protection.inventory.armorplus.the_ultimate_helmet_middle.*         # (default: true) INVENTORY §aThe Ultimate Helmet Middle
-fe.protection.inventory.armorplus.the_ultimate_helmet_right.*          # (default: true) INVENTORY §aThe Ultimate Helmet Right
-fe.protection.inventory.armorplus.the_ultimate_leggings_full.*         # (default: true) INVENTORY §aThe Ultimate Leggings
-fe.protection.inventory.armorplus.the_ultimate_leggings_left.*         # (default: true) INVENTORY §aThe Ultimate Legging Left
-fe.protection.inventory.armorplus.the_ultimate_leggings_middle.*       # (default: true) INVENTORY §aThe Ultimate Legging Middle
-fe.protection.inventory.armorplus.the_ultimate_leggings_right.*        # (default: true) INVENTORY §aThe Ultimate Legging Right
-fe.protection.inventory.armorplus.the_ultimate_material.*              # (default: true) INVENTORY §aThe Ultimate Material§r
-fe.protection.inventory.armorplus.twitch.*                             # (default: true) INVENTORY Twitch§r
-fe.protection.inventory.armorplus.wither_bone.*                        # (default: true) INVENTORY §fWither Bone§r
+fe.protection.inventory.armorplus.super_star_sword.*                   # (default: true) INVENTORY Â§fSuper Star Sword
+fe.protection.inventory.armorplus.tesla_rod.*                          # (default: true) INVENTORY Â§3Tesla Rod
+fe.protection.inventory.armorplus.the_dragon_team.*                    # (default: true) INVENTORY The Dragon TeamÂ§r
+fe.protection.inventory.armorplus.the_gift_of_the_gods.*               # (default: true) INVENTORY Â§6The Gift Of The Gods
+fe.protection.inventory.armorplus.the_ultimate_boots_full.*            # (default: true) INVENTORY Â§aThe Ultimate Boots
+fe.protection.inventory.armorplus.the_ultimate_boots_left.*            # (default: true) INVENTORY Â§aThe Ultimate Boots Left
+fe.protection.inventory.armorplus.the_ultimate_boots_middle.*          # (default: true) INVENTORY Â§aThe Ultimate Boots Middle
+fe.protection.inventory.armorplus.the_ultimate_boots_right.*           # (default: true) INVENTORY Â§aThe Ultimate Boots Right
+fe.protection.inventory.armorplus.the_ultimate_chestplate_full.*       # (default: true) INVENTORY Â§aThe Ultimate Chestplate
+fe.protection.inventory.armorplus.the_ultimate_chestplate_left.*       # (default: true) INVENTORY Â§aThe Ultimate Chestplate Left
+fe.protection.inventory.armorplus.the_ultimate_chestplate_middle.*     # (default: true) INVENTORY Â§aThe Ultimate Chestplate Middle
+fe.protection.inventory.armorplus.the_ultimate_chestplate_right.*      # (default: true) INVENTORY Â§aThe Ultimate Chestplate Right
+fe.protection.inventory.armorplus.the_ultimate_helmet_full.*           # (default: true) INVENTORY Â§aThe Ultimate Helmet
+fe.protection.inventory.armorplus.the_ultimate_helmet_left.*           # (default: true) INVENTORY Â§aThe Ultimate Helmet Left
+fe.protection.inventory.armorplus.the_ultimate_helmet_middle.*         # (default: true) INVENTORY Â§aThe Ultimate Helmet Middle
+fe.protection.inventory.armorplus.the_ultimate_helmet_right.*          # (default: true) INVENTORY Â§aThe Ultimate Helmet Right
+fe.protection.inventory.armorplus.the_ultimate_leggings_full.*         # (default: true) INVENTORY Â§aThe Ultimate Leggings
+fe.protection.inventory.armorplus.the_ultimate_leggings_left.*         # (default: true) INVENTORY Â§aThe Ultimate Legging Left
+fe.protection.inventory.armorplus.the_ultimate_leggings_middle.*       # (default: true) INVENTORY Â§aThe Ultimate Legging Middle
+fe.protection.inventory.armorplus.the_ultimate_leggings_right.*        # (default: true) INVENTORY Â§aThe Ultimate Legging Right
+fe.protection.inventory.armorplus.the_ultimate_material.*              # (default: true) INVENTORY Â§aThe Ultimate MaterialÂ§r
+fe.protection.inventory.armorplus.twitch.*                             # (default: true) INVENTORY TwitchÂ§r
+fe.protection.inventory.armorplus.wither_bone.*                        # (default: true) INVENTORY Â§fWither BoneÂ§r
 fe.protection.inventory.aroma1997sdimension.dimensionChanger.*         # (default: true) INVENTORY DimensionChanger
 fe.protection.inventory.aroma1997sdimension.portalIgniter.*            # (default: true) INVENTORY Mining Multitool
 fe.protection.inventory.backpacks16840.backpack.*                      # (default: true) INVENTORY Black Backpack
@@ -4426,7 +4428,7 @@ fe.protection.inventory.harvestcraft.mangojellysandwichitem.*          # (defaul
 fe.protection.inventory.harvestcraft.mangojuiceitem.*                  # (default: true) INVENTORY Mango Juice
 fe.protection.inventory.harvestcraft.mangosmoothieitem.*               # (default: true) INVENTORY Mango Smoothie
 fe.protection.inventory.harvestcraft.mangoyogurtitem.*                 # (default: true) INVENTORY Mango Yogurt
-fe.protection.inventory.harvestcraft.manjuuitem.*                      # (default: true) INVENTORY Manj?
+fe.protection.inventory.harvestcraft.manjuuitem.*                      # (default: true) INVENTORY ManjÅ«
 fe.protection.inventory.harvestcraft.maplecandiedbaconitem.*           # (default: true) INVENTORY Maple Candied Bacon
 fe.protection.inventory.harvestcraft.mapleoatmealitem.*                # (default: true) INVENTORY Maple Oatmeal
 fe.protection.inventory.harvestcraft.maplesausageitem.*                # (default: true) INVENTORY Maple Sausage
@@ -4801,6 +4803,7 @@ fe.protection.inventory.harvestcraft.zucchinibreaditem.*               # (defaul
 fe.protection.inventory.harvestcraft.zucchinifriesitem.*               # (default: true) INVENTORY Zucchini Fries
 fe.protection.inventory.harvestcraft.zucchiniitem.*                    # (default: true) INVENTORY Zucchini
 fe.protection.inventory.harvestcraft.zucchiniseeditem.*                # (default: true) INVENTORY Zucchini Seed
+fe.protection.inventory.itemblacklist.blacklisted.*                    # (default: true) INVENTORY _ERROR_.name
 fe.protection.inventory.justcoins.coin_sack.*                          # (default: true) INVENTORY Coin Sack
 fe.protection.inventory.justcoins.copper_coin.*                        # (default: true) INVENTORY Copper Coin
 fe.protection.inventory.justcoins.gold_coin.*                          # (default: true) INVENTORY Gold Coin
@@ -5151,149 +5154,149 @@ fe.protection.use.armorplus.ardite_boots.*                             # (defaul
 fe.protection.use.armorplus.ardite_chestplate.*                        # (default: true) USE Ardite Chestplate
 fe.protection.use.armorplus.ardite_helmet.*                            # (default: true) USE Ardite Helmet
 fe.protection.use.armorplus.ardite_leggings.*                          # (default: true) USE Ardite Leggings
-fe.protection.use.armorplus.armorplus_book.*                           # (default: true) USE §fArmorPlus Book§r
-fe.protection.use.armorplus.armorplus_info_book.*                      # (default: true) USE §fArmorPlus Info Book§r
-fe.protection.use.armorplus.beam.*                                     # (default: true) USE Beam§r
-fe.protection.use.armorplus.chainmail.*                                # (default: true) USE §fChainmail§r
+fe.protection.use.armorplus.armorplus_book.*                           # (default: true) USE Â§fArmorPlus BookÂ§r
+fe.protection.use.armorplus.armorplus_info_book.*                      # (default: true) USE Â§fArmorPlus Info BookÂ§r
+fe.protection.use.armorplus.beam.*                                     # (default: true) USE BeamÂ§r
+fe.protection.use.armorplus.chainmail.*                                # (default: true) USE Â§fChainmailÂ§r
 fe.protection.use.armorplus.chicken_boots.*                            # (default: true) USE Chicken Boots
 fe.protection.use.armorplus.chicken_chestplate.*                       # (default: true) USE Chicken Chestplate
 fe.protection.use.armorplus.chicken_helmet.*                           # (default: true) USE Chicken Helmet
 fe.protection.use.armorplus.chicken_leggings.*                         # (default: true) USE Chicken Leggings
 fe.protection.use.armorplus.coal_arrow.*                               # (default: true) USE Coal Arrow
-fe.protection.use.armorplus.coal_battle_axe.*                          # (default: true) USE §7Coal Battle Axe
+fe.protection.use.armorplus.coal_battle_axe.*                          # (default: true) USE Â§7Coal Battle Axe
 fe.protection.use.armorplus.coal_boots.*                               # (default: true) USE Coal Boots
-fe.protection.use.armorplus.coal_bow.*                                 # (default: true) USE §7Coal Bow
+fe.protection.use.armorplus.coal_bow.*                                 # (default: true) USE Â§7Coal Bow
 fe.protection.use.armorplus.coal_chestplate.*                          # (default: true) USE Coal Chestplate
 fe.protection.use.armorplus.coal_helmet.*                              # (default: true) USE Coal Helmet
 fe.protection.use.armorplus.coal_leggings.*                            # (default: true) USE Coal Leggings
-fe.protection.use.armorplus.coal_sword.*                               # (default: true) USE §7Coal Sword
+fe.protection.use.armorplus.coal_sword.*                               # (default: true) USE Â§7Coal Sword
 fe.protection.use.armorplus.cobalt_boots.*                             # (default: true) USE Cobalt Boots
 fe.protection.use.armorplus.cobalt_chestplate.*                        # (default: true) USE Cobalt Chestplate
 fe.protection.use.armorplus.cobalt_helmet.*                            # (default: true) USE Cobalt Helmet
 fe.protection.use.armorplus.cobalt_leggings.*                          # (default: true) USE Cobalt Leggings
-fe.protection.use.armorplus.dev_item.*                                 # (default: true) USE NBT Item§r
-fe.protection.use.armorplus.dev_tool.*                                 # (default: true) USE §lDev Tool
-fe.protection.use.armorplus.electrical_boots.*                         # (default: true) USE §4Electrical Boots
-fe.protection.use.armorplus.electrical_chestplate.*                    # (default: true) USE §4Electrical Chestplate
-fe.protection.use.armorplus.electrical_helmet.*                        # (default: true) USE §4Electrical Helmet
-fe.protection.use.armorplus.electrical_ingot.*                         # (default: true) USE §fElectrical Ingot§r
-fe.protection.use.armorplus.electrical_leggings.*                      # (default: true) USE §4Electrical Leggings
-fe.protection.use.armorplus.emerald_battle_axe.*                       # (default: true) USE §2Emerald Battle Axe
+fe.protection.use.armorplus.dev_item.*                                 # (default: true) USE NBT ItemÂ§r
+fe.protection.use.armorplus.dev_tool.*                                 # (default: true) USE Â§lDev Tool
+fe.protection.use.armorplus.electrical_boots.*                         # (default: true) USE Â§4Electrical Boots
+fe.protection.use.armorplus.electrical_chestplate.*                    # (default: true) USE Â§4Electrical Chestplate
+fe.protection.use.armorplus.electrical_helmet.*                        # (default: true) USE Â§4Electrical Helmet
+fe.protection.use.armorplus.electrical_ingot.*                         # (default: true) USE Â§fElectrical IngotÂ§r
+fe.protection.use.armorplus.electrical_leggings.*                      # (default: true) USE Â§4Electrical Leggings
+fe.protection.use.armorplus.emerald_battle_axe.*                       # (default: true) USE Â§2Emerald Battle Axe
 fe.protection.use.armorplus.emerald_boots.*                            # (default: true) USE Emerald Boots
-fe.protection.use.armorplus.emerald_bow.*                              # (default: true) USE §2Emerald Bow
+fe.protection.use.armorplus.emerald_bow.*                              # (default: true) USE Â§2Emerald Bow
 fe.protection.use.armorplus.emerald_chestplate.*                       # (default: true) USE Emerald Chestplate
 fe.protection.use.armorplus.emerald_helmet.*                           # (default: true) USE Emerald Helmet
 fe.protection.use.armorplus.emerald_leggings.*                         # (default: true) USE Emerald Leggings
-fe.protection.use.armorplus.emerald_sword.*                            # (default: true) USE §2Emerald Sword
+fe.protection.use.armorplus.emerald_sword.*                            # (default: true) USE Â§2Emerald Sword
 fe.protection.use.armorplus.ender_dragon_arrow.*                       # (default: true) USE Ender Dragon Arrow
-fe.protection.use.armorplus.ender_dragon_battle_axe.*                  # (default: true) USE §5Ender Dragon Battle Axe
+fe.protection.use.armorplus.ender_dragon_battle_axe.*                  # (default: true) USE Â§5Ender Dragon Battle Axe
 fe.protection.use.armorplus.ender_dragon_boots.*                       # (default: true) USE Ender Dragon Boots
-fe.protection.use.armorplus.ender_dragon_bow.*                         # (default: true) USE §5Ender Dragon Bow
+fe.protection.use.armorplus.ender_dragon_bow.*                         # (default: true) USE Â§5Ender Dragon Bow
 fe.protection.use.armorplus.ender_dragon_chestplate.*                  # (default: true) USE Ender Dragon Chestplate
 fe.protection.use.armorplus.ender_dragon_helmet.*                      # (default: true) USE Ender Dragon Helmet
 fe.protection.use.armorplus.ender_dragon_leggings.*                    # (default: true) USE Ender Dragon Leggings
-fe.protection.use.armorplus.ender_dragon_scale.*                       # (default: true) USE §5Ender Dragon Scale§r
-fe.protection.use.armorplus.ender_dragon_sword.*                       # (default: true) USE §5Ender Dragon Sword
-fe.protection.use.armorplus.energy_storage.*                           # (default: true) USE §4item.armorplus.energy_storage.name
-fe.protection.use.armorplus.guardian_battle_axe.*                      # (default: true) USE §bGuardian Battle Axe
+fe.protection.use.armorplus.ender_dragon_scale.*                       # (default: true) USE Â§5Ender Dragon ScaleÂ§r
+fe.protection.use.armorplus.ender_dragon_sword.*                       # (default: true) USE Â§5Ender Dragon Sword
+fe.protection.use.armorplus.energy_storage.*                           # (default: true) USE Â§4item.armorplus.energy_storage.name
+fe.protection.use.armorplus.guardian_battle_axe.*                      # (default: true) USE Â§bGuardian Battle Axe
 fe.protection.use.armorplus.guardian_boots.*                           # (default: true) USE Guardian Boots
-fe.protection.use.armorplus.guardian_bow.*                             # (default: true) USE §bGuardian Bow
+fe.protection.use.armorplus.guardian_bow.*                             # (default: true) USE Â§bGuardian Bow
 fe.protection.use.armorplus.guardian_chestplate.*                      # (default: true) USE Guardian Chestplate
 fe.protection.use.armorplus.guardian_helmet.*                          # (default: true) USE Guardian Helmet
 fe.protection.use.armorplus.guardian_leggings.*                        # (default: true) USE Guardian Leggings
-fe.protection.use.armorplus.guardian_scale.*                           # (default: true) USE §bGuardian Scale§r
-fe.protection.use.armorplus.guardian_sword.*                           # (default: true) USE §bGuardian Sword
-fe.protection.use.armorplus.jon_bams.*                                 # (default: true) USE Jon Bams§r
+fe.protection.use.armorplus.guardian_scale.*                           # (default: true) USE Â§bGuardian ScaleÂ§r
+fe.protection.use.armorplus.guardian_sword.*                           # (default: true) USE Â§bGuardian Sword
+fe.protection.use.armorplus.jon_bams.*                                 # (default: true) USE Jon BamsÂ§r
 fe.protection.use.armorplus.knight_slime_boots.*                       # (default: true) USE Knight Slime Boots
 fe.protection.use.armorplus.knight_slime_chestplate.*                  # (default: true) USE Knight Slime Chestplate
 fe.protection.use.armorplus.knight_slime_helmet.*                      # (default: true) USE Knight Slime Helmet
 fe.protection.use.armorplus.knight_slime_leggings.*                    # (default: true) USE Knight Slime Leggings
 fe.protection.use.armorplus.lapis_arrow.*                              # (default: true) USE Lapis Arrow
-fe.protection.use.armorplus.lapis_battle_axe.*                         # (default: true) USE §1Lapis Battle Axe
+fe.protection.use.armorplus.lapis_battle_axe.*                         # (default: true) USE Â§1Lapis Battle Axe
 fe.protection.use.armorplus.lapis_boots.*                              # (default: true) USE Lapis Boots
-fe.protection.use.armorplus.lapis_bow.*                                # (default: true) USE §1Lapis Bow
+fe.protection.use.armorplus.lapis_bow.*                                # (default: true) USE Â§1Lapis Bow
 fe.protection.use.armorplus.lapis_chestplate.*                         # (default: true) USE Lapis Chestplate
 fe.protection.use.armorplus.lapis_helmet.*                             # (default: true) USE Lapis Helmet
 fe.protection.use.armorplus.lapis_leggings.*                           # (default: true) USE Lapis Leggings
-fe.protection.use.armorplus.lapis_sword.*                              # (default: true) USE §1Lapis Sword
+fe.protection.use.armorplus.lapis_sword.*                              # (default: true) USE Â§1Lapis Sword
 fe.protection.use.armorplus.lava_arrow.*                               # (default: true) USE Lava Arrow
-fe.protection.use.armorplus.lava_battle_axe.*                          # (default: true) USE §6Lava Battle Axe
+fe.protection.use.armorplus.lava_battle_axe.*                          # (default: true) USE Â§6Lava Battle Axe
 fe.protection.use.armorplus.lava_boots.*                               # (default: true) USE Lava Boots
-fe.protection.use.armorplus.lava_bow.*                                 # (default: true) USE §6Lava Bow
+fe.protection.use.armorplus.lava_bow.*                                 # (default: true) USE Â§6Lava Bow
 fe.protection.use.armorplus.lava_chestplate.*                          # (default: true) USE Lava Chestplate
 fe.protection.use.armorplus.lava_crystal.*                             # (default: true) USE Lava Crystal
 fe.protection.use.armorplus.lava_helmet.*                              # (default: true) USE Lava Helmet
 fe.protection.use.armorplus.lava_leggings.*                            # (default: true) USE Lava Leggings
-fe.protection.use.armorplus.lava_sword.*                               # (default: true) USE §6Lava Sword
+fe.protection.use.armorplus.lava_sword.*                               # (default: true) USE Â§6Lava Sword
 fe.protection.use.armorplus.manyullyn_boots.*                          # (default: true) USE Manyullyn Boots
 fe.protection.use.armorplus.manyullyn_chestplate.*                     # (default: true) USE Manyullyn Chestplate
 fe.protection.use.armorplus.manyullyn_helmet.*                         # (default: true) USE Manyullyn Helmet
 fe.protection.use.armorplus.manyullyn_leggings.*                       # (default: true) USE Manyullyn Leggings
-fe.protection.use.armorplus.modded_city.*                              # (default: true) USE Modded City§r
-fe.protection.use.armorplus.obsidian_battle_axe.*                      # (default: true) USE §8Obsidian Battle Axe
+fe.protection.use.armorplus.modded_city.*                              # (default: true) USE Modded CityÂ§r
+fe.protection.use.armorplus.obsidian_battle_axe.*                      # (default: true) USE Â§8Obsidian Battle Axe
 fe.protection.use.armorplus.obsidian_boots.*                           # (default: true) USE Obsidian Boots
-fe.protection.use.armorplus.obsidian_bow.*                             # (default: true) USE §8Obsidian Bow
+fe.protection.use.armorplus.obsidian_bow.*                             # (default: true) USE Â§8Obsidian Bow
 fe.protection.use.armorplus.obsidian_chestplate.*                      # (default: true) USE Obsidian Chestplate
 fe.protection.use.armorplus.obsidian_helmet.*                          # (default: true) USE Obsidian Helmet
 fe.protection.use.armorplus.obsidian_leggings.*                        # (default: true) USE Obsidian Leggings
-fe.protection.use.armorplus.obsidian_sword.*                           # (default: true) USE §8Obsidian Sword
+fe.protection.use.armorplus.obsidian_sword.*                           # (default: true) USE Â§8Obsidian Sword
 fe.protection.use.armorplus.pig_iron_boots.*                           # (default: true) USE Pig Iron Boots
 fe.protection.use.armorplus.pig_iron_chestplate.*                      # (default: true) USE Pig Iron Chestplate
 fe.protection.use.armorplus.pig_iron_helmet.*                          # (default: true) USE Pig Iron Helmet
 fe.protection.use.armorplus.pig_iron_leggings.*                        # (default: true) USE Pig Iron Leggings
 fe.protection.use.armorplus.redstone_apple.*                           # (default: true) USE Redstone Apple
 fe.protection.use.armorplus.redstone_arrow.*                           # (default: true) USE Redstone Arrow
-fe.protection.use.armorplus.redstone_battle_axe.*                      # (default: true) USE §4Redstone Battle Axe
+fe.protection.use.armorplus.redstone_battle_axe.*                      # (default: true) USE Â§4Redstone Battle Axe
 fe.protection.use.armorplus.redstone_boots.*                           # (default: true) USE Redstone Boots
-fe.protection.use.armorplus.redstone_bow.*                             # (default: true) USE §4Redstone Bow
+fe.protection.use.armorplus.redstone_bow.*                             # (default: true) USE Â§4Redstone Bow
 fe.protection.use.armorplus.redstone_chestplate.*                      # (default: true) USE Redstone Chestplate
-fe.protection.use.armorplus.redstone_flux_axe.*                        # (default: true) USE §4Redstone Flux Axe
-fe.protection.use.armorplus.redstone_flux_hoe.*                        # (default: true) USE §4Redstone Flux Hoe
-fe.protection.use.armorplus.redstone_flux_pickaxe.*                    # (default: true) USE §4Redstone Flux Pickaxe
-fe.protection.use.armorplus.redstone_flux_rod.*                        # (default: true) USE §4Redstone Flux Rod
-fe.protection.use.armorplus.redstone_flux_shovel.*                     # (default: true) USE §4Redstone Flux Shovel
-fe.protection.use.armorplus.redstone_flux_sword.*                      # (default: true) USE §4Redstone Flux Sword
+fe.protection.use.armorplus.redstone_flux_axe.*                        # (default: true) USE Â§4Redstone Flux Axe
+fe.protection.use.armorplus.redstone_flux_hoe.*                        # (default: true) USE Â§4Redstone Flux Hoe
+fe.protection.use.armorplus.redstone_flux_pickaxe.*                    # (default: true) USE Â§4Redstone Flux Pickaxe
+fe.protection.use.armorplus.redstone_flux_rod.*                        # (default: true) USE Â§4Redstone Flux Rod
+fe.protection.use.armorplus.redstone_flux_shovel.*                     # (default: true) USE Â§4Redstone Flux Shovel
+fe.protection.use.armorplus.redstone_flux_sword.*                      # (default: true) USE Â§4Redstone Flux Sword
 fe.protection.use.armorplus.redstone_helmet.*                          # (default: true) USE Redstone Helmet
 fe.protection.use.armorplus.redstone_leggings.*                        # (default: true) USE Redstone Leggings
-fe.protection.use.armorplus.redstone_sword.*                           # (default: true) USE §4Redstone Sword
+fe.protection.use.armorplus.redstone_sword.*                           # (default: true) USE Â§4Redstone Sword
 fe.protection.use.armorplus.slime_boots.*                              # (default: true) USE Slime Boots
 fe.protection.use.armorplus.slime_chestplate.*                         # (default: true) USE Slime Chestplate
 fe.protection.use.armorplus.slime_helmet.*                             # (default: true) USE Slime Helmet
 fe.protection.use.armorplus.slime_leggings.*                           # (default: true) USE Slime Leggings
-fe.protection.use.armorplus.steel_boots.*                              # (default: true) USE §4Steel Boots
-fe.protection.use.armorplus.steel_chestplate.*                         # (default: true) USE §4Steel Chestplate
-fe.protection.use.armorplus.steel_helmet.*                             # (default: true) USE §4Steel Helmet
-fe.protection.use.armorplus.steel_ingot.*                              # (default: true) USE §fSteel Ingot§r
-fe.protection.use.armorplus.steel_leggings.*                           # (default: true) USE §4Steel Leggings
-fe.protection.use.armorplus.super_star_battle_axe.*                    # (default: true) USE §fSuper Star Battle Axe
+fe.protection.use.armorplus.steel_boots.*                              # (default: true) USE Â§4Steel Boots
+fe.protection.use.armorplus.steel_chestplate.*                         # (default: true) USE Â§4Steel Chestplate
+fe.protection.use.armorplus.steel_helmet.*                             # (default: true) USE Â§4Steel Helmet
+fe.protection.use.armorplus.steel_ingot.*                              # (default: true) USE Â§fSteel IngotÂ§r
+fe.protection.use.armorplus.steel_leggings.*                           # (default: true) USE Â§4Steel Leggings
+fe.protection.use.armorplus.super_star_battle_axe.*                    # (default: true) USE Â§fSuper Star Battle Axe
 fe.protection.use.armorplus.super_star_boots.*                         # (default: true) USE Super Star Boots
-fe.protection.use.armorplus.super_star_bow.*                           # (default: true) USE §fSuper Star Bow
+fe.protection.use.armorplus.super_star_bow.*                           # (default: true) USE Â§fSuper Star Bow
 fe.protection.use.armorplus.super_star_chestplate.*                    # (default: true) USE Super Star Chestplate
 fe.protection.use.armorplus.super_star_helmet.*                        # (default: true) USE Super Star Helmet
 fe.protection.use.armorplus.super_star_leggings.*                      # (default: true) USE Super Star Leggings
-fe.protection.use.armorplus.super_star_sword.*                         # (default: true) USE §fSuper Star Sword
-fe.protection.use.armorplus.tesla_rod.*                                # (default: true) USE §3Tesla Rod
-fe.protection.use.armorplus.the_dragon_team.*                          # (default: true) USE The Dragon Team§r
-fe.protection.use.armorplus.the_gift_of_the_gods.*                     # (default: true) USE §6The Gift Of The Gods
-fe.protection.use.armorplus.the_ultimate_boots_full.*                  # (default: true) USE §aThe Ultimate Boots
-fe.protection.use.armorplus.the_ultimate_boots_left.*                  # (default: true) USE §aThe Ultimate Boots Left
-fe.protection.use.armorplus.the_ultimate_boots_middle.*                # (default: true) USE §aThe Ultimate Boots Middle
-fe.protection.use.armorplus.the_ultimate_boots_right.*                 # (default: true) USE §aThe Ultimate Boots Right
-fe.protection.use.armorplus.the_ultimate_chestplate_full.*             # (default: true) USE §aThe Ultimate Chestplate
-fe.protection.use.armorplus.the_ultimate_chestplate_left.*             # (default: true) USE §aThe Ultimate Chestplate Left
-fe.protection.use.armorplus.the_ultimate_chestplate_middle.*           # (default: true) USE §aThe Ultimate Chestplate Middle
-fe.protection.use.armorplus.the_ultimate_chestplate_right.*            # (default: true) USE §aThe Ultimate Chestplate Right
-fe.protection.use.armorplus.the_ultimate_helmet_full.*                 # (default: true) USE §aThe Ultimate Helmet
-fe.protection.use.armorplus.the_ultimate_helmet_left.*                 # (default: true) USE §aThe Ultimate Helmet Left
-fe.protection.use.armorplus.the_ultimate_helmet_middle.*               # (default: true) USE §aThe Ultimate Helmet Middle
-fe.protection.use.armorplus.the_ultimate_helmet_right.*                # (default: true) USE §aThe Ultimate Helmet Right
-fe.protection.use.armorplus.the_ultimate_leggings_full.*               # (default: true) USE §aThe Ultimate Leggings
-fe.protection.use.armorplus.the_ultimate_leggings_left.*               # (default: true) USE §aThe Ultimate Legging Left
-fe.protection.use.armorplus.the_ultimate_leggings_middle.*             # (default: true) USE §aThe Ultimate Legging Middle
-fe.protection.use.armorplus.the_ultimate_leggings_right.*              # (default: true) USE §aThe Ultimate Legging Right
-fe.protection.use.armorplus.the_ultimate_material.*                    # (default: true) USE §aThe Ultimate Material§r
-fe.protection.use.armorplus.twitch.*                                   # (default: true) USE Twitch§r
-fe.protection.use.armorplus.wither_bone.*                              # (default: true) USE §fWither Bone§r
+fe.protection.use.armorplus.super_star_sword.*                         # (default: true) USE Â§fSuper Star Sword
+fe.protection.use.armorplus.tesla_rod.*                                # (default: true) USE Â§3Tesla Rod
+fe.protection.use.armorplus.the_dragon_team.*                          # (default: true) USE The Dragon TeamÂ§r
+fe.protection.use.armorplus.the_gift_of_the_gods.*                     # (default: true) USE Â§6The Gift Of The Gods
+fe.protection.use.armorplus.the_ultimate_boots_full.*                  # (default: true) USE Â§aThe Ultimate Boots
+fe.protection.use.armorplus.the_ultimate_boots_left.*                  # (default: true) USE Â§aThe Ultimate Boots Left
+fe.protection.use.armorplus.the_ultimate_boots_middle.*                # (default: true) USE Â§aThe Ultimate Boots Middle
+fe.protection.use.armorplus.the_ultimate_boots_right.*                 # (default: true) USE Â§aThe Ultimate Boots Right
+fe.protection.use.armorplus.the_ultimate_chestplate_full.*             # (default: true) USE Â§aThe Ultimate Chestplate
+fe.protection.use.armorplus.the_ultimate_chestplate_left.*             # (default: true) USE Â§aThe Ultimate Chestplate Left
+fe.protection.use.armorplus.the_ultimate_chestplate_middle.*           # (default: true) USE Â§aThe Ultimate Chestplate Middle
+fe.protection.use.armorplus.the_ultimate_chestplate_right.*            # (default: true) USE Â§aThe Ultimate Chestplate Right
+fe.protection.use.armorplus.the_ultimate_helmet_full.*                 # (default: true) USE Â§aThe Ultimate Helmet
+fe.protection.use.armorplus.the_ultimate_helmet_left.*                 # (default: true) USE Â§aThe Ultimate Helmet Left
+fe.protection.use.armorplus.the_ultimate_helmet_middle.*               # (default: true) USE Â§aThe Ultimate Helmet Middle
+fe.protection.use.armorplus.the_ultimate_helmet_right.*                # (default: true) USE Â§aThe Ultimate Helmet Right
+fe.protection.use.armorplus.the_ultimate_leggings_full.*               # (default: true) USE Â§aThe Ultimate Leggings
+fe.protection.use.armorplus.the_ultimate_leggings_left.*               # (default: true) USE Â§aThe Ultimate Legging Left
+fe.protection.use.armorplus.the_ultimate_leggings_middle.*             # (default: true) USE Â§aThe Ultimate Legging Middle
+fe.protection.use.armorplus.the_ultimate_leggings_right.*              # (default: true) USE Â§aThe Ultimate Legging Right
+fe.protection.use.armorplus.the_ultimate_material.*                    # (default: true) USE Â§aThe Ultimate MaterialÂ§r
+fe.protection.use.armorplus.twitch.*                                   # (default: true) USE TwitchÂ§r
+fe.protection.use.armorplus.wither_bone.*                              # (default: true) USE Â§fWither BoneÂ§r
 fe.protection.use.aroma1997sdimension.dimensionChanger.*               # (default: true) USE DimensionChanger
 fe.protection.use.aroma1997sdimension.portalIgniter.*                  # (default: true) USE Mining Multitool
 fe.protection.use.backpacks16840.backpack.*                            # (default: true) USE Black Backpack
@@ -6138,7 +6141,7 @@ fe.protection.use.harvestcraft.mangojellysandwichitem.*                # (defaul
 fe.protection.use.harvestcraft.mangojuiceitem.*                        # (default: true) USE Mango Juice
 fe.protection.use.harvestcraft.mangosmoothieitem.*                     # (default: true) USE Mango Smoothie
 fe.protection.use.harvestcraft.mangoyogurtitem.*                       # (default: true) USE Mango Yogurt
-fe.protection.use.harvestcraft.manjuuitem.*                            # (default: true) USE Manj?
+fe.protection.use.harvestcraft.manjuuitem.*                            # (default: true) USE ManjÅ«
 fe.protection.use.harvestcraft.maplecandiedbaconitem.*                 # (default: true) USE Maple Candied Bacon
 fe.protection.use.harvestcraft.mapleoatmealitem.*                      # (default: true) USE Maple Oatmeal
 fe.protection.use.harvestcraft.maplesausageitem.*                      # (default: true) USE Maple Sausage
@@ -6513,6 +6516,7 @@ fe.protection.use.harvestcraft.zucchinibreaditem.*                     # (defaul
 fe.protection.use.harvestcraft.zucchinifriesitem.*                     # (default: true) USE Zucchini Fries
 fe.protection.use.harvestcraft.zucchiniitem.*                          # (default: true) USE Zucchini
 fe.protection.use.harvestcraft.zucchiniseeditem.*                      # (default: true) USE Zucchini Seed
+fe.protection.use.itemblacklist.blacklisted.*                          # (default: true) USE _ERROR_.name
 fe.protection.use.justcoins.coin_sack.*                                # (default: true) USE Coin Sack
 fe.protection.use.justcoins.copper_coin.*                              # (default: true) USE Copper Coin
 fe.protection.use.justcoins.gold_coin.*                                # (default: true) USE Gold Coin

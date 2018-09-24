@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 24.09 09:42 ------------ \\#
-#// ----------- Total amount: 11796 --------- \\#
+#// --------------- 24.09 16:57 ------------ \\#
+#// ----------- Total amount: 11802 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                    # (default: true) 
 command./sel                                                           # (default: true) 
@@ -14,6 +14,7 @@ command.ban                                                            # (OP onl
 command.ban-ip                                                         # (OP only: true) 
 command.banlist                                                        # (OP only: true) 
 command.blockdata                                                      # (OP only: true) 
+command.blockitem                                                      # (OP only: true) 
 command.bloodmoon                                                      # (OP only: true) 
 command.brush                                                          # (default: true) 
 command.clear                                                          # (OP only: true) 
@@ -26,6 +27,7 @@ command.effect                                                         # (OP onl
 command.enchant                                                        # (OP only: true) 
 command.entitydata                                                     # (OP only: true) 
 command.execute                                                        # (OP only: true) 
+command.feclass                                                        # (OP only: true) 
 command.fill                                                           # (OP only: true) 
 command.forge                                                          # (OP only: true) 
 command.gamerule                                                       # (OP only: true) 
@@ -58,6 +60,7 @@ command.setworldspawn                                                  # (OP onl
 command.shutdown                                                       # (OP only: true) 
 command.sleep                                                          # (OP only: true) 
 command.snapshot                                                       # (default: true) 
+command.spawninfernal                                                  # (OP only: true) 
 command.spawnpoint                                                     # (OP only: true) 
 command.spreadplayers                                                  # (OP only: true) 
 command.stats                                                          # (OP only: true) 
@@ -76,8 +79,7 @@ command.toggledownfall                                                 # (OP onl
 command.tool                                                           # (default: true) 
 command.tp                                                             # (OP only: true) 
 command.trigger                                                        # (default: true) 
-command.vchatmode                                                      # (OP only: true) 
-command.vmute                                                          # (OP only: true) 
+command.unpack                                                         # (default: true) 
 command.weather                                                        # (OP only: true) 
 command.whitelist                                                      # (OP only: true) 
 command.worldedit                                                      # (default: true) 

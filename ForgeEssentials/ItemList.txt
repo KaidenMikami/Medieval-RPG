@@ -2503,6 +2503,7 @@ item.copper_coin
 item.coin_sack
 item.gold_coin
 item.silver_coin
+item.blacklisted
 tile.agricraft:water_channel_full
 item.agricraft:crop_sticks
 tile.agricraft:water_channel_valve
