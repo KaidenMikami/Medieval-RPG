@@ -584,9 +584,9 @@ fe.teleport.tp                                                         # (OP onl
 fe.teleport.tpa                                                        # (default: true) 
 fe.teleport.tpa.here                                                   # (default: true) Allow teleporting other players to your own location (inversed TPA)
 fe.teleport.tpa.loc                                                    # (OP only: true) Allow teleporting other players to any location
-fe.teleport.tpa.sendrequest                                            # (default: true) Allow sending teleport-to requests
+fe.teleport.tpa.sendrequest                                            # (default: false) Allow sending teleport-to requests
 fe.teleport.tpa.timeout                                                # (default: 20) Amount of sec a user has to accept a TPA request
-fe.teleport.tpahere.sendrequest                                        # (default: true) Allow sending teleport-here requests
+fe.teleport.tpahere.sendrequest                                        # (default: false) Allow sending teleport-here requests
 fe.teleport.tppos                                                      # (default: true) 
 fe.teleport.warmup                                                     # (OP only: 0) Allow bypassing teleport warmup
 fe.teleport.warp                                                       # (OP only: true) 
