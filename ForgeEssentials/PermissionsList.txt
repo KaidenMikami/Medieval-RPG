@@ -565,9 +565,9 @@ fe.teleport.crossdim.portalfrom                                        # (defaul
 fe.teleport.crossdim.portalto                                          # (default: false) Allow teleporting cross-dimensionally to a dimension via a portal (target coordinates are origin for vanilla portals)
 fe.teleport.crossdim.to                                                # (default: false) Allow teleporting cross-dimensionally to a dimension
 fe.teleport.from                                                       # (default: false) Allow being teleported from a certain location / dimension
-fe.teleport.home                                                       # (default: false) 
+fe.teleport.home                                                       # (default: true) 
 fe.teleport.home.other                                                 # (OP only: true) Allow setting other players home location
-fe.teleport.home.set                                                   # (default: false) Allow setting of home location
+fe.teleport.home.set                                                   # (default: true) Allow setting of home location
 fe.teleport.jump                                                       # (OP only: true 
 fe.teleport.jump.tool                                                  # (OP only: true) Allow jumping with a tool (default compass)
 fe.teleport.personalwarp                                               # (OP only: true) 
