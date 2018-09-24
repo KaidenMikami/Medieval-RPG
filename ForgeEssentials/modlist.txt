@@ -1,0 +1,46 @@
+# --- ModList ---
+# Generated: 24-8-2018 (Server time)
+# Change the location of this file in main.cfg
+
+Minecraft Coder Pack;9.19;http://www.modcoderpack.com/website/
+Forge Mod Loader;8.0.99.99;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;12.18.3.2511;http://minecraftforge.net
+Aroma1997Core;${version};http://www.minecraftforum.net/topic/1679684-
+ItemBlacklist;1.2.0.11;https://github.com/DoubleDoorDevelopment/ItemBlacklist
+Additional Banners;1.3.0.22;http: //minecraft.curseforge.com/projects/additional-banners-expand-your-options
+InfinityLib;1.10.2-0.11.0;https://www.github.com/InfinityRaider
+AgriCraft;2.0.0-0.11.0-a21;http://minecraft.curseforge.com/mc-mods/225635-agricraft
+Mantle;1.10.2-1.1.5.205;https://github.com/SlimeKnights/Mantle
+Just Enough Items;3.14.7.420;https://github.com/mezz/JustEnoughItems
+Tinkers' Construct;1.10.2-2.6.5.10;https://github.com/SlimeKnights/TinkersConstruct
+TheDragonLib;1.10.2-1.3.1;
+ArmorPlus;1.10.2-8.7.1.2;https://minecraft.curseforge.com/projects/armorplus
+Aroma1997Core|Helper;1.1.1.2;http://www.minecraftforum.net/topic/1679684-
+Aroma1997's Dimensional World;1.0;
+Backpacks!;3.5.2;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291844-backpacks-by-brad16840
+BiblioCraft;2.2.5;http://www.bibliocraftmod.com
+Bloodmoon;1.5.1;
+Chameleon;1.10.2-2.3.0;http://www.jaquadro.com/
+Chisel;MC1.10.2-0.2.1.46;https://minecraft.curseforge.com/projects/chisel
+compatlayer;0.3.1;
+CraftTweaker JEI Support;1.0.1;
+MineTweaker 3;3.0.26;http://minetweaker3.powerofbytes.com
+CustomNPCs;1.10.2;http://tinyurl.com/customnpcs
+Disenchanter;1.6;http://minecraft.curseforge.com/projects/the-disenchanter-mod
+ForgeAutoShutdown;1.0.1;
+Forge Essentials;10.3;
+HelpFixer;1.0;
+Infernal Mobs;1.7.1;http://www.minecraftforum.net/topic/991952-
+Inventory Tweaks;1.61-58-a1fd884;https://github.com/Kobata/inventory-tweaks
+JourneyMap;1.10.2-5.5.2;http://journeymap.info
+Just Coins;1.1.3;
+MTLib;@VERSION@;
+Mod Tweaker;2.0.13;https://minecraft.curseforge.com/projects/ModTweaker
+Pam's HarvestCraft;1.10.2j;http://minecraft.curseforge.com/members/MatrexsVigil/projects
+Reliquary;1.10.2-1.3.3.664;
+Roguelike Dungeons;1.5.9;github.com/Greymerk/minecraft-roguelike
+Storage Drawers;1.10.2-3.7.10;http://www.jaquadro.com/
+Tick Dynamic;1.0.0;https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic
+VillageTradingBan;2.0.0;
+WorldEdit;6.1.4;http://wiki.sk89q.com/wiki/WorldEdit
+Dense Ores;1.0.3;https://github.com/rwtema/DenseOres
